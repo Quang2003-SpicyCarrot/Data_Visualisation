@@ -1,0 +1,204 @@
+false
+election-no-hierarchy.tm3
+TREEMAP VERSION	Treemap 4.0
+FLIP_SLICE_AND_DICE	true
+PARTITIONING_METHOD	0
+NOMINAL_ATTRIBUTE	6
+3	51
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+2	1
+true
+3	7
+true
+true
+true
+true
+true
+true
+true
+2	2
+true
+true
+2	2
+true
+true
+2	2
+true
+true
+LABEL_ATTRIBUTE_INDEX	-2
+SIZE_ATTRIBUTE_NUMERIC_INDEX	0
+COLOR_ATTRIBUTE_INDEX	3
+NEGATIVE_COLOR	255	0	0
+ZERO_COLOR	0	0	0
+POSITIVE_COLOR	0	255	0
+AUTOHIDE	false
+VISIBLE_POPUP	true
+DIRECTORY_MAPPING_DATA	false
+FONT_SIZE	12
+BORDER_SIZE	3
+ALL_NOMINAL_STRINGS_TO_COLORS	6
+0
+51
+Louisiana	23	254	254	127
+Arkansas	22	254	254	0
+Mississippi	28	223	96	223
+West Virginia	33	159	32	32
+Delaware	48	255	255	255
+Kansas	16	254	0	0
+Maryland	49	255	255	255
+Nevada	3	0	127	127
+North Carolina	35	159	159	32
+Washington	1	0	0	254
+Iowa	20	254	127	127
+Michigan	30	32	32	159
+Nebraska	15	127	254	254
+New Mexico	12	127	127	254
+New York	45	255	255	255
+New Jersey	46	255	255	255
+Pennsylvania	47	255	255	255
+South Carolina	36	191	191	64
+Georgia	37	255	255	255
+Florida	38	255	255	255
+Massachusetts	42	255	255	255
+Alaska	0	0	0	127
+Indiana	31	32	159	32
+Kentucky	26	96	223	223
+North Dakota	13	127	254	0
+Rhode Island	43	255	255	255
+Arizona	11	127	127	0
+Connecticut	44	255	255	255
+Maine	39	255	255	255
+Colorado	10	127	0	254
+Wisconsin	24	96	96	223
+Washington DC	50	255	255	255
+Texas	18	254	0	254
+Utah	9	127	0	127
+Virginia	34	159	32	159
+Idaho	7	0	254	254
+Oregon	2	0	127	0
+Alabama	29	223	223	96
+Illinois	25	96	223	96
+New Hampshire	40	255	255	255
+Montana	6	0	254	127
+South Dakota	14	127	254	127
+Hawaii	5	0	254	0
+Oklahoma	17	254	0	127
+Missouri	21	254	127	254
+Wyoming	8	127	0	0
+Vermont	41	255	255	255
+Minnesota	19	254	127	0
+Ohio	32	32	159	159
+Tennessee	27	223	96	96
+California	4	0	127	254
+1
+1
+USA	0	0	0	127
+2
+7
+6 - Mid & South	5	0	254	0
+4 - Midwest	3	0	127	127
+2 - Rockies	1	0	0	254
+5 - Central	4	0	127	254
+3 - Far Midwest	2	0	127	0
+7 - North & East	6	0	254	127
+1- West	0	0	0	127
+3
+2
+Democrat	1	255	255	51
+Republican	0	0	153	255
+4
+2
+Democrat	1	0	0	254
+Republican	0	0	0	127
+5
+2
+Democrat	1	0	0	254
+Republican	0	0	0	127
+COLOR_BINNING_PROPERTIES
+0	2.00	54.00	1	0	0	0	0	255	0
+0	18073.00	4567429.00	1	0	0	0	0	255	0
+0	37127.00	5861203.00	1	0	0	0	0	255	0
+0	453588.00	29760021.00	1	0	0	0	0	255	0
+HIERARCHY_HISTORY
+1
+Hierarchy: 1	2
+1	2	
+0
+-1	-1
+BINNING_PROPERTIES
+0	2.00	54.00	1
+0	18073.00	4567429.00	1
+0	37127.00	5861203.00	1
+0	453588.00	29760021.00	1
+USER_MAXIMUM_DEPTH	3
+HIDE_LEAF_LABEL	false
+NUMERICAL_ATTRIBUTE_USER_MINIMA	4
+false	1
+false	18072
+false	37126
+false	453587
+NUMERICAL_ATTRIBUTE_USER_MAXIMA	4
+false	55
+false	4567430
+false	5861204
+false	29760022
+AGGREGATE_FUNCTION	4
+6	1
+7	1
+8	1
+9	1
+HIGHLIGHTED_NODE	0
+TREEMAP_TITLE	election-no-hierarchy.tm3
+NO_BORDER	false
+USER_ROOT	-1
+END_SETTINGS

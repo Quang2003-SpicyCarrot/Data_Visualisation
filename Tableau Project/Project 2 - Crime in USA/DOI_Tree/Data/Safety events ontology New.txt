@@ -1,0 +1,508 @@
+Patient Events					
+Patient Events	Adverse reaction	data\Views\appt_comp2.png			
+Patient Events	Adverse drug reaction  (not a medication error/not preventable)				
+Patient Events	Adverse drug reaction  (not a medication error/not preventable)	Dietary supplements/feedings			
+Patient Events	Adverse drug reaction  (not a medication error/not preventable)	Latex/tapes			
+Patient Events	Adverse drug reaction  (not a medication error/not preventable)	Other (for contrast reaction, see Radiology/imaging test)"			
+Patient Events	Anesthesia event				
+Patient Events	Anesthesia event	Airway management issues			
+Patient Events	Anesthesia event	Airway management issues	Difficulty maintaining airway during procedure		
+Patient Events	Anesthesia event	Airway management issues	Difficulty or trauma during tracheal intubation		
+Patient Events	Anesthesia event	Airway management issues	Esophageal intubation		
+Patient Events	Anesthesia event	Airway management issues	Reintubation, following extubation, in OR or recovery		
+Patient Events	Anesthesia event	Airway management issues	Other (specify)		
+Patient Events	Anesthesia event	Aspiration			
+Patient Events	Anesthesia event	Awareness during anesthesia			
+Patient Events	Anesthesia event	Injury related to anesthesia			
+Patient Events	Anesthesia event	Injury related to anesthesia	Dental		data/Views/appt_comp3.png
+Patient Events	Anesthesia event	Injury related to anesthesia	Ocular		
+Patient Events	Anesthesia event	Injury related to anesthesia	Peripheral nerve	data/Views/tcu_appt_v4.png	
+Patient Events	Anesthesia event	Injury related to anesthesia	Other (specify)		
+Patient Events	Anesthesia event	Injury related to anesthesia	Malignant hyperthermia		
+Patient Events	Anesthesia event	Injury related to anesthesia	Problems with anesthesia, medical gas, or other substance		
+Patient Events	Anesthesia event	Injury related to anesthesia	Problems with device used in delivery of anesthesia		
+Patient Events	Anesthesia event	Injury related to anesthesia	Prolonged recovery time		
+Patient Events	Anesthesia event	Injury related to anesthesia	Unplanned use of reversal agents		
+Patient Events	Anesthesia event	Injury related to anesthesia	Other (specify)		
+Patient Events	Behavioral event				
+Patient Events	Behavioral event	Assault			
+Patient Events	Behavioral event	Assault	Assault by patient		
+Patient Events	Behavioral event	Assault	Assault by staff member		
+Patient Events	Behavioral event	Assault	Assault by visitor		
+Patient Events	Behavioral event	Consensual sexual activity			
+Patient Events	Behavioral event	Contraband/unauthorized objects			
+Patient Events	Behavioral event	Destruction of property			
+Patient Events	Behavioral event	Disruptive behavior			
+Patient Events	Behavioral event	Refusal of therapy	data/Views/tcu_sch_v3d1.png		
+Patient Events	Behavioral event	Restraint-related injury/death			
+Patient Events	Behavioral event	Seclusion injury/death			
+Patient Events	Behavioral event	Self-harm or injury			
+Patient Events	Behavioral event	Sexual assault/rape			
+Patient Events	Behavioral event	Suicide or suicide attempt			
+Patient Events	Behavioral event	Threat by patient			
+Patient Events	Behavioral event	Other (specify)			
+Patient Events	Care coordination/communication				
+Patient Events	Care coordination/communication	Access to care problem			
+Patient Events	Care coordination/communication	Access to care problem	Bed not available		
+Patient Events	Care coordination/communication	Access to care problem	Delay in transfer		
+Patient Events	Care coordination/communication	Access to care problem	Delay in treatment		
+Patient Events	Care coordination/communication	Access to care problem	Inappropriate level of care		
+Patient Events	Care coordination/communication	Access to care problem	Inappropriate transfer		
+Patient Events	Care coordination/communication	Access to care problem	Transportation unavailable/delayed		
+Patient Events	Care coordination/communication	Access to care problem	Treatment room not available		
+Patient Events	Care coordination/communication	Access to care problem	Other (specify)		
+Patient Events	Communication inadequate				
+Patient Events	Communication inadequate	With other providers WITHIN patient care area			
+Patient Events	Communication inadequate	With other providers in OTHER patient care areas			
+Patient Events	Communication inadequate	With other providers in ancillary departments (e.g., laboratory, pharmacy, radiology)"			
+Patient Events	Communication inadequate	With outside providers/agencies			
+Patient Events	Communication inadequate	With patient or family			
+Patient Events	Communication inadequate	Other (specify)			
+Patient Events	Communication inadequate	Message handling/response problem			
+Patient Events	Communication inadequate	Provider not available			
+Patient Events	Communication inadequate	Referral/consult problem			
+Patient Events	Communication inadequate	Referral/consult problem	Delay in scheduling		
+Patient Events	Communication inadequate	Referral/consult problem	Delay in service		
+Patient Events	Communication inadequate	Referral/consult problem	Report unavailable/delayed		
+Patient Events	Communication inadequate	Referral/consult problem	Other (specify)		
+Patient Events	Communication inadequate	Other (specify)			
+Patient Events	Complication of Surgery or Anesthesia				
+Patient Events	Complication of Surgery or Anesthesia	Cardiac/circulatory event			
+Patient Events	Complication of Surgery or Anesthesia	Cardiac/circulatory event	Cardiac arrest		
+Patient Events	Complication of Surgery or Anesthesia	Cardiac/circulatory event	Myocardial infarction		
+Patient Events	Complication of Surgery or Anesthesia	Cardiac/circulatory event	Prolonged hypotension		
+Patient Events	Complication of Surgery or Anesthesia	Death			
+Patient Events	Complication of Surgery or Anesthesia	Dehiscence, wound/flap/graft failure or disruption"			
+Patient Events	Complication of Surgery or Anesthesia	Gastrointestinal complication			
+Patient Events	Complication of Surgery or Anesthesia	Gastrointestinal complication	Abscess		
+Patient Events	Complication of Surgery or Anesthesia	Gastrointestinal complication	Bowel obstruction		
+Patient Events	Complication of Surgery or Anesthesia	Gastrointestinal complication	Bowel perforation		
+Patient Events	Complication of Surgery or Anesthesia	Gastrointestinal complication	Pancreatitis		
+Patient Events	Complication of Surgery or Anesthesia	Gastrointestinal complication	Splenic rupture		
+Patient Events	Complication of Surgery or Anesthesia	Hemorrhage requiring unexpected transfusion or return to OR			
+Patient Events	Complication of Surgery or Anesthesia	Incisional hernia			
+Patient Events	Complication of Surgery or Anesthesia	Renal/urinary event			
+Patient Events	Complication of Surgery or Anesthesia	Renal/urinary event	Hematuria		
+Patient Events	Complication of Surgery or Anesthesia	Renal/urinary event	Incontinence		
+Patient Events	Complication of Surgery or Anesthesia	Renal/urinary event	Nephrolithiasis		
+Patient Events	Complication of Surgery or Anesthesia	Renal/urinary event	Renal failure or insufficiency		
+Patient Events	Complication of Surgery or Anesthesia	Respiratory failure requiring unplanned support < 24 hours after procedure			
+Patient Events	Complication of Surgery or Anesthesia	Respiratory failure requiring unplanned support < 24 hours after procedure	Prolonged ventilator support		
+Patient Events	Complication of Surgery or Anesthesia	Respiratory failure requiring unplanned support < 24 hours after procedure	Reinstitution of ventilator following discontinuation		
+Patient Events	Complication of Surgery or Anesthesia	Respiratory failure requiring unplanned support < 24 hours after procedure	Unplanned/emergent intubation following procedure/treatment/test		
+Patient Events	Complication of Surgery or Anesthesia	Respiratory failure requiring unplanned support < 24 hours after procedure	Other (specify)		
+Patient Events	Complication of Surgery or Anesthesia	Transplant complications			
+Patient Events	Complication of Surgery or Anesthesia	Transplant complications	Anastomotic blockage/stenosis		
+Patient Events	Complication of Surgery or Anesthesia	Transplant complications	Anastomotic leak		
+Patient Events	Complication of Surgery or Anesthesia	Transplant complications	Delayed graft function		
+Patient Events	Complication of Surgery or Anesthesia	Transplant complications	Graft-versus-host disease		
+Patient Events	Complication of Surgery or Anesthesia	Transplant complications	Hematoma		
+Patient Events	Complication of Surgery or Anesthesia	Transplant complications	Lymphocele		
+Patient Events	Complication of Surgery or Anesthesia	Transplant complications	Primary graft nonfunction		
+Patient Events	Complication of Surgery or Anesthesia	Transplant complications	Rejection		
+Patient Events	Complication of Surgery or Anesthesia	Other (specify)			
+Patient Events	Complications of care (unanticipated, nonsurgical)
+Patient Events	Complications of care (unanticipated, nonsurgical)	Cardiac complication			
+Patient Events	Complications of care (unanticipated, nonsurgical)	Cardiac complication	Code outside of ICU (Cardiopulmonary arrest)		
+Patient Events	Complications of care (unanticipated, nonsurgical)	Cardiac complication	Myocardial infarction		
+Patient Events	Complications of care (unanticipated, nonsurgical)	Cardiac complication	Other cardiac complication (specify)		
+Patient Events	Complications of care (unanticipated, nonsurgical)	Deep vein thrombosis (DVT)/pulmonary embolism (PE)			
+Patient Events	Complications of care (unanticipated, nonsurgical)	Gastrointestinal bleeding			
+Patient Events	Complications of care (unanticipated, nonsurgical)	Glucose management			
+Patient Events	Complications of care (unanticipated, nonsurgical)	Glucose management	HYPERglycemia		
+Patient Events	Complications of care (unanticipated, nonsurgical)	Glucose management	HYPOglycemia		
+Patient Events	Complications of care (unanticipated, nonsurgical)	IV site complication			
+Patient Events	Complications of care (unanticipated, nonsurgical)	IV site complication	Air embolism		
+Patient Events	Complications of care (unanticipated, nonsurgical)	IV site complication	Extravasation of vesicant drug (for extravasa- tion of radiologic contrast, see Radiology/imaging test)"		
+Patient Events	Complications of care (unanticipated, nonsurgical)	IV site complication	Phlebitis, bruising, infiltration"		
+Patient Events	Complications of care (unanticipated, nonsurgical)	Other IV complication (specify)			
+Patient Events	Complications of care (unanticipated, nonsurgical)	Neurologic complication			
+Patient Events	Complications of care (unanticipated, nonsurgical)	Neurologic complication	Confusional state		
+Patient Events	Complications of care (unanticipated, nonsurgical)	Neurologic complication	Seizure		
+Patient Events	Complications of care (unanticipated, nonsurgical)	Neurologic complication	Stroke		
+Patient Events	Complications of care (unanticipated, nonsurgical)	Neurologic complication	Unresponsiveness/loss of consciousness		
+Patient Events	Complications of care (unanticipated, nonsurgical)	Other neurologic complication (specify)			
+Patient Events	Complications of care (unanticipated, nonsurgical)	Removal of tube or other medical device by patient 			
+Patient Events	Complications of care (unanticipated, nonsurgical)	Other catheter or tube problem (for self-/unplanned extubation, see Respiratory care)"			
+Patient Events	Complications of care (unanticipated, nonsurgical)	Other catheter or tube problem (for self-/unplanned extubation, see Respiratory care)"	Dislodged/removed accidentally		
+Patient Events	Complications of care (unanticipated, nonsurgical)	Other catheter or tube problem (for self-/unplanned extubation, see Respiratory care)"	Incorrect placement or use		
+Patient Events	Complications of care (unanticipated, nonsurgical)	Other catheter or tube problem (for self-/unplanned extubation, see Respiratory care)"	Line or tube damaged/broken		
+Patient Events	Complications of care (unanticipated, nonsurgical)	Other catheter or tube problem (for self-/unplanned extubation, see Respiratory care)"	Line or tube occluded/clotted/damaged		
+Patient Events	Complications of care (unanticipated, nonsurgical)	Other catheter or tube problem (for self-/unplanned extubation, see Respiratory care)"	Misconnection (e.g., wrong IV to wrong site/port)"		
+Patient Events	Complications of care (unanticipated, nonsurgical)	Other catheter or tube problem (for self-/unplanned extubation, see Respiratory care)"	Other catheter or tube problem (specify)		
+Patient Events	Complications of care (unanticipated, nonsurgical)	Renal failure			
+Patient Events	Complications of care (unanticipated, nonsurgical)	Respiratory complication			
+Patient Events	Complications of care (unanticipated, nonsurgical)	Respiratory complication	Respiratory distress		
+Patient Events	Complications of care (unanticipated, nonsurgical)	Respiratory complication	Respiratory failure		
+Patient Events	Complications of care (unanticipated, nonsurgical)	Respiratory complication	Other respiratory complication (specify)		
+Patient Events	Complications of care (unanticipated, nonsurgical)	Unexpected change in patient status			
+Patient Events	Complications of care (unanticipated, nonsurgical)	Unexpected change in patient status	Unplanned admission or transfer		
+Patient Events	Complications of care (unanticipated, nonsurgical)	Unexpected change in patient status	Unplanned return to ED in 48 hours requiring admission		
+Patient Events	Complications of care (unanticipated, nonsurgical)	Unexpected change in patient status	Unplanned surgery		
+Patient Events	Complications of care (unanticipated, nonsurgical)	Unexpected change in patient status	Unplanned transfer to ICU		
+Patient Events	Complications of care (unanticipated, nonsurgical)	Unexpected death			
+Patient Events	Complications of care (unanticipated, nonsurgical)	Unexpected injury (not related to falls or skin integrity)			
+Patient Events	Complications of care (unanticipated, nonsurgical)	Unexpected injury (not related to falls or skin integrity)	Crushing injury		
+Patient Events	Complications of care (unanticipated, nonsurgical)	Unexpected injury (not related to falls or skin integrity)	Dislocations		
+Patient Events	Complications of care (unanticipated, nonsurgical)	Unexpected injury (not related to falls or skin integrity)	Electric shock		
+Patient Events	Complications of care (unanticipated, nonsurgical)	Unexpected injury (not related to falls or skin integrity)	Fractures		
+Patient Events	Complications of care (unanticipated, nonsurgical)	Unexpected injury (not related to falls or skin integrity)	Intracranial injury		
+Patient Events	Complications of care (unanticipated, nonsurgical)	Unexpected injury (not related to falls or skin integrity)	Other injuries (specify)		
+Patient Events	Complications of care (unanticipated, nonsurgical)	Artificial insemination with wrong donor sperm or wrong egg			
+Patient Events	Complications of care (unanticipated, nonsurgical)	Injury related to spinal manipulative therapy			
+Patient Events	Complications of care (unanticipated, nonsurgical)	Other (specify)			
+Patient Events	Equipment/device				
+Patient Events	Equipment/device	Broken item(s)			
+Patient Events	Equipment/device	Disconnected			
+Patient Events	Equipment/device	Electrical problem			
+Patient Events	Equipment/device	Equipment malfunction			
+Patient Events	Equipment/device	Equipment unavailable/ordered, not received"			
+Patient Events	Equipment/device	Equipment wrong or inadequate			
+Patient Events	Equipment/device	Medical device problem			
+Patient Events	Equipment/device	Operator training or knowledge problem			
+Patient Events	Equipment/device	Outdated item(s)/equipment maintenance overdue			
+Patient Events	Equipment/device	Sterilization problem			
+Patient Events	Equipment/device	Used after product recall			
+Patient Events	Equipment/device	Other (specify)			
+Patient Events	Event related to surgery or invasive procedure				
+Patient Events	Event related to surgery or invasive procedure	Event before procedure			
+Patient Events	Event related to surgery or invasive procedure	Event before procedure	Antibiotics not given per protocol		
+Patient Events	Event related to surgery or invasive procedure	Event before procedure	Consent missing or incomplete		
+Patient Events	Event related to surgery or invasive procedure	Event before procedure	Identification missing or incorrect		
+Patient Events	Event related to surgery or invasive procedure	Event before procedure	Preparation inadequate or wrong		
+Patient Events	Event related to surgery or invasive procedure	Event before procedure	Procedure canceled or not performed		
+Patient Events	Event related to surgery or invasive procedure	Event before procedure	Procedure delayed		
+Patient Events	Event related to surgery or invasive procedure	Event before procedure	Procedure not ordered		
+Patient Events	Event related to surgery or invasive procedure	Event before procedure	Universal protocol (time-out) not followed		
+Patient Events	Event related to surgery or invasive procedure	Event before procedure	Other (specify)		
+Patient Events	Event related to surgery or invasive procedure	Air embolus			
+Patient Events	Event related to surgery or invasive procedure	Break in sterile technique			
+Patient Events	Event related to surgery or invasive procedure	Burn/fire			
+Patient Events	Event related to surgery or invasive procedure	Burn/fire	Burn		
+Patient Events	Event related to surgery or invasive procedure	Burn/fire	Operating room fire		
+Patient Events	Event related to surgery or invasive procedure	Burn/fire	Both burn and operating room fire		
+Patient Events	Event related to surgery or invasive procedure	Count incomplete or not done			
+Patient Events	Event related to surgery or invasive procedure	Count incorrect			
+Patient Events	Event related to surgery or invasive procedure	Count incorrect	Instrument fragment		
+Patient Events	Event related to surgery or invasive procedure	Count incorrect	Needles		
+Patient Events	Event related to surgery or invasive procedure	Count incorrect	Sponges		
+Patient Events	Event related to surgery or invasive procedure	Count incorrect	Towels		
+Patient Events	Event related to surgery or invasive procedure	Count incorrect	Whole instrument		
+Patient Events	Event related to surgery or invasive procedure	Count incorrect	Other (specify)		
+Patient Events	Event related to surgery or invasive procedure	Foreign body accidentally left in patient			
+Patient Events	Event related to surgery or invasive procedure	Foreign body accidentally left in patient	Guidewire		
+Patient Events	Event related to surgery or invasive procedure	Foreign body accidentally left in patient	Instrument fragment		
+Patient Events	Event related to surgery or invasive procedure	Foreign body accidentally left in patient	Needle		
+Patient Events	Event related to surgery or invasive procedure	Foreign body accidentally left in patient	Sponge		
+Patient Events	Event related to surgery or invasive procedure	Foreign body accidentally left in patient	Towel		
+Patient Events	Event related to surgery or invasive procedure	Foreign body accidentally left in patient	Whole instrument		
+Patient Events	Event related to surgery or invasive procedure	Foreign body accidentally left in patient	Other (specify)		
+Patient Events	Event related to surgery or invasive procedure	Iatrogenic pneumothorax			
+Patient Events	Event related to surgery or invasive procedure	Iatrogenic pneumothorax	Central line placement		
+Patient Events	Event related to surgery or invasive procedure	Iatrogenic pneumothorax	Mechanical ventilation		
+Patient Events	Event related to surgery or invasive procedure	Iatrogenic pneumothorax	Other invasive procedure (specify)		
+Patient Events	Event related to surgery or invasive procedure	Incorrect surgical or invasive procedure			
+Patient Events	Event related to surgery or invasive procedure	Incorrect surgical or invasive procedure	Incorrect implant because correct implant not available		
+Patient Events	Event related to surgery or invasive procedure	Incorrect surgical or invasive procedure	Wrong implant by mistake		
+Patient Events	Event related to surgery or invasive procedure	Incorrect surgical or invasive procedure	Wrong procedure		
+Patient Events	Event related to surgery or invasive procedure	Incorrect surgical or invasive procedure	Wrong patient		
+Patient Events	Event related to surgery or invasive procedure	Incorrect surgical or invasive procedure	Wrong side (L vs R)		
+Patient Events	Event related to surgery or invasive procedure	Incorrect surgical or invasive procedure	Wrong site		
+Patient Events	Event related to surgery or invasive procedure	Incorrect surgical or invasive procedure	Other (specify)		
+Patient Events	Event related to surgery or invasive procedure	Procedure started and not completed			
+Patient Events	Event related to surgery or invasive procedure	Unintended blockage, obstruction, or ligation"			
+Patient Events	Event related to surgery or invasive procedure	Unintended laceration or puncture			
+Patient Events	Event related to surgery or invasive procedure	Unplanned removal of organ			
+Patient Events	Event related to surgery or invasive procedure	Other (specify)			
+Patient Events					
+Patient Events	Fall				
+Patient Events	Food/nutrition				
+Patient Events	Food/nutrition	Delay in tray delivery/nutrition			
+Patient Events	Food/nutrition	Food allergy			
+Patient Events	Food/nutrition	Food/feeding not given			
+Patient Events	Food/nutrition	Food spoiled/expired			
+Patient Events	Food/nutrition	Foreign object in food			
+Patient Events	Food/nutrition	NPO patient receives tray			
+Patient Events	Food/nutrition	Tube feeding problem			
+Patient Events	Food/nutrition	Wrong diet/nutrition received or administered			
+Patient Events	Food/nutrition	Wrong/inappropriate items on tray			
+Patient Events	Food/nutrition	Other (specify)			
+Patient Events					
+Patient Events	Healthcare\associated infection (HAI)				
+Patient Events	Healthcare\associated infection (HAI)	Antibiotic-associated diarrhea			
+Patient Events	Healthcare\associated infection (HAI)	Bloodstream infection (BSI)			
+Patient Events	Healthcare\associated infection (HAI)	Bloodstream infection (BSI)	Central line-associated (CLABSI)		
+Patient Events	Healthcare\associated infection (HAI)	Bloodstream infection (BSI)	Not central line-associated		
+Patient Events	Healthcare\associated infection (HAI)	Colonization by antibiotic-resistant organism (e.g., MRSA, VRE)"			
+Patient Events	Healthcare\associated infection (HAI)	Pneumonia			
+Patient Events	Healthcare\associated infection (HAI)	Pneumonia	Ventilator-associated (VAP)		
+Patient Events	Healthcare\associated infection (HAI)	Pneumonia	Not ventilator-associated		
+Patient Events	Healthcare\associated infection (HAI)	Surgical site infection (SSI)			
+Patient Events	Healthcare\associated infection (HAI)	Surgical site infection (SSI)	Organ/space		
+Patient Events	Healthcare\associated infection (HAI)	Surgical site infection (SSI)	Deep incisional primary		
+Patient Events	Healthcare\associated infection (HAI)	Surgical site infection (SSI)	Deep incisional secondary		
+Patient Events	Healthcare\associated infection (HAI)	Surgical site infection (SSI)	Superficial incisional primary		
+Patient Events	Healthcare\associated infection (HAI)	Surgical site infection (SSI)	Superficial incisional secondary		
+Patient Events	Healthcare\associated infection (HAI)	Surgical site infection (SSI)	Stage unknown		
+Patient Events	Healthcare\associated infection (HAI)	Urinary tract infection (UTI)			
+Patient Events	Healthcare\associated infection (HAI)	Urinary tract infection (UTI)	Catheter-associated (CAUTI)		
+Patient Events	Healthcare\associated infection (HAI)	Urinary tract infection (UTI)	Not catheter-associated		
+Patient Events	Healthcare\associated infection (HAI)	Other type of infection (not involving surgical site) that developed during admission			
+Patient Events	Healthcare\associated infection (HAI)	Other type of infection (not involving surgical site) that developed during admission	Bone or joint		
+Patient Events	Healthcare\associated infection (HAI)	Other type of infection (not involving surgical site) that developed during admission	Cardiovascular system		
+Patient Events	Healthcare\associated infection (HAI)	Other type of infection (not involving surgical site) that developed during admission	Central nervous system		
+Patient Events	Healthcare\associated infection (HAI)	Other type of infection (not involving surgical site) that developed during admission	Eye, ear, nose, throat, or mouth"		
+Patient Events	Healthcare\associated infection (HAI)	Other type of infection (not involving surgical site) that developed during admission	Gastrointestinal		
+Patient Events	Healthcare\associated infection (HAI)	Other type of infection (not involving surgical site) that developed during admission	Lower respiratory tract (other than pneumonia)		
+Patient Events	Healthcare\associated infection (HAI)	Other type of infection (not involving surgical site) that developed during admission	Reproductive tract		
+Patient Events	Healthcare\associated infection (HAI)	Other type of infection (not involving surgical site) that developed during admission	Skin or soft tissue		
+Patient Events	Healthcare\associated infection (HAI)	Other type of infection (not involving surgical site) that developed during admission	Systemic		
+Patient Events	Healthcare\associated infection (HAI)	Other type of infection (not involving surgical site) that developed during admission	Other (specify)		
+Patient Events	Healthcare\associated infection (HAI)	Other (specify)			
+Patient Events	Laboratory test				
+Patient Events	Laboratory test	Ordering/transcription error			
+Patient Events	Laboratory test	Specimen collection			
+Patient Events	Laboratory test	Specimen labeling			
+Patient Events	Laboratory test	Transport of specimen			
+Patient Events	Laboratory test	Specimen processing			
+Patient Events	Laboratory test	Specimen quality			
+Patient Events	Laboratory test	Analysis of specimen in the laboratory			
+Patient Events	Laboratory test	Reporting results/report unavailable			
+Patient Events	Laboratory test	Other laboratory test event (specify)			
+Patient Events	Maternal				
+Patient Events	Maternal	Amniotic fluid embolism			
+Patient Events	Maternal	Eclampsia			
+Patient Events	Maternal	Hemorrhage requiring transfusion			
+Patient Events	Maternal	Infection			
+Patient Events	Maternal	Infection	Chorioamnionitis		
+Patient Events	Maternal	Infection	Endometritis		
+Patient Events	Maternal	Infection	Other (specify)		
+Patient Events	Maternal	Injury to body part or organ			
+Patient Events	Maternal	Injury to body part or organ	3rd- or 4th-degree perineal laceration		
+Patient Events	Maternal	Injury to body part or organ	Bladder		
+Patient Events	Maternal	Injury to body part or organ	Bowel		
+Patient Events	Maternal	Injury to body part or organ	Ureter		
+Patient Events	Maternal	Injury to body part or organ	Uterine rupture		
+Patient Events	Maternal	Injury to body part or organ	Other (specify)		
+Patient Events	Maternal	Intrapartum fetal death/stillbirth			
+Patient Events	Maternal	Magnesium toxicity			
+Patient Events	Maternal	Maternal death			
+Patient Events	Maternal	Other maternal complications			
+Patient Events	Maternal	Other maternal complications	Cord prolapse		
+Patient Events	Maternal	Other maternal complications	Postpartum hysterectomy/laparotomy		
+Patient Events	Maternal	Other maternal complications	Retained placenta		
+Patient Events	Maternal	Other maternal complications	Shoulder dystocia		
+Patient Events	Maternal	Other maternal complications	Undiagnosed breech in labor		
+Patient Events	Maternal	Other maternal complications	Unsuccessful vaginal operative delivery		
+Patient Events	Maternal	Unattended delivery			
+Patient Events	Maternal	Other (specify)			
+Patient Events	Medical records/patient identification				
+Patient Events	Medical records/patient identification	Consent missing/incomplete (non- procedure)			
+Patient Events	Medical records/patient identification	Incomplete/incorrect chart entry/order entry information			
+Patient Events	Medical records/patient identification	Patient identification issues			
+Patient Events	Medical records/patient identification	Records/chart incomplete			
+Patient Events	Medical records/patient identification	Records/chart unavailable			
+Patient Events	Medical records/patient identification	Other (specify)			
+Patient Events	Medication related				
+Patient Events	Medication related	Wrong dosage form (e.g., sustained vs immediate release)"			
+Patient Events	Medication related	Wrong dose			
+Patient Events	Medication related	Wrong dose	Extra dose		
+Patient Events	Medication related	Wrong dose	Missed/omitted dose		
+Patient Events	Medication related	Wrong dose	Overdose		
+Patient Events	Medication related	Wrong dose	Underdose		
+Patient Events	Medication related	Wrong dose	Unknown		
+Patient Events	Medication related	Wrong drug or substance			
+Patient Events	Medication related	Wrong duration (of administration or course of therapy)			
+Patient Events	Medication related	Wrong frequency			
+Patient Events	Medication related	Wrong patient			
+Patient Events	Medication related	Wrong preparation or technique			
+Patient Events	Medication related	Wrong rate (IV)			
+Patient Events	Medication related	Wrong rate (IV)	Too quickly		
+Patient Events	Medication related	Wrong rate (IV)	Too slowly		
+Patient Events	Medication related	Wrong rate (IV)	Unknown		
+Patient Events	Medication related	Wrong route			
+Patient Events	Medication related	Wrong strength/concentration			
+Patient Events	Medication related	Wrong strength/concentration	Too high		
+Patient Events	Medication related	Wrong strength/concentration	Too low		
+Patient Events	Medication related	Wrong strength/concentration	Unknown		
+Patient Events	Medication related	Wrong timing			
+Patient Events	Medication related	Wrong timing	Too early		
+Patient Events	Medication related	Wrong timing	Too late		
+Patient Events	Medication related	Unknown			
+Patient Events	Medication related	Known allergy			
+Patient Events	Medication related	Known allergy	Documented in record but missed		
+Patient Events	Medication related	Known allergy	Not documented		
+Patient Events	Medication related	Known allergy	Unknown/other (specify)		
+Patient Events	Medication related	Known drug interaction			
+Patient Events	Medication related	Known drug interaction	Drug-disease		
+Patient Events	Medication related	Known drug interaction	Drug-drug		
+Patient Events	Medication related	Known drug interaction	Drug-food/nutrient		
+Patient Events	Medication related	Known drug interaction	Other (specify)		
+Patient Events	Medication related				
+Patient Events	Medication related	Monitoring event			
+Patient Events	Medication related	Monitoring event	Clinical (laboratory value, vital sign)"		
+Patient Events	Medication related	Monitoring event	Other monitoring event		
+Patient Events	Medication related				
+Patient Events	Medication related	Pain management			
+Patient Events	Medication related	Pain management	Overtreatment		
+Patient Events	Medication related	Pain management	Undertreatment		
+Patient Events	Medication related	Pain management	Other (specify)		
+Patient Events	Medication related	Prescription/refill delayed			
+Patient Events	Medication related	Unordered drug given			
+Patient Events	Medication related	Other medication event			
+Patient Events	Medication related	Other medication event	Contaminated drug		
+Patient Events	Medication related	Other medication event	Drug given after recall		
+Patient Events	Medication related	Other medication event	Expired or deteriorated drug		
+Patient Events	Medication related	Other medication event	Incorrect patient action (e.g., self- administration error)"		
+Patient Events	Medication related	Other medication event	Medication found in room		
+Patient Events	Medication related	Other medication event	Other (specify)		
+Patient Events					
+Patient Events	Neonatal				
+Patient Events	Neonatal	Anoxic or hypoxic encephalopathy			
+Patient Events	Neonatal	Birth trauma			
+Patient Events	Neonatal	Birth trauma	Injury to brachial plexus		
+Patient Events	Neonatal	Birth trauma	Subdural or cerebral hemorrhage		
+Patient Events	Neonatal	Birth trauma	Other (specify)		
+Patient Events	Neonatal	Five minute Apgar < 7 and birthweight> 2500 grams			
+Patient Events	Neonatal	Infection (e.g., group B strep)"			
+Patient Events	Neonatal	Seizure(s)			
+Patient Events	Neonatal	Undiagnosed or untreated hyperbilirubinemia			
+Patient Events	Neonatal	Unexpected neonatal death			
+Patient Events	Neonatal	Other (specify)			
+Patient Events					
+Patient Events	Omission/errors in assessment, diagnosis, monitoring				
+Patient Events	Omission/errors in assessment, diagnosis, monitoring	Assessment issues			
+Patient Events	Omission/errors in assessment, diagnosis, monitoring	Assessment issues	Delayed		
+Patient Events	Omission/errors in assessment, diagnosis, monitoring	Assessment issues	Inaccurate		
+Patient Events	Omission/errors in assessment, diagnosis, monitoring	Assessment issues	Incomplete		
+Patient Events	Omission/errors in assessment, diagnosis, monitoring	Assessment issues	Not completed		
+Patient Events	Omission/errors in assessment, diagnosis, monitoring	Diagnosis issues			
+Patient Events	Omission/errors in assessment, diagnosis, monitoring	Diagnosis issues	Delayed diagnosis		
+Patient Events	Omission/errors in assessment, diagnosis, monitoring	Diagnosis issues	Diagnosis changed		
+Patient Events	Omission/errors in assessment, diagnosis, monitoring	Diagnosis issues	Incorrect diagnosis		
+Patient Events	Omission/errors in assessment, diagnosis, monitoring	Diagnosis issues	Missed diagnosis		
+Patient Events	Omission/errors in assessment, diagnosis, monitoring	Monitoring issue or failure to monitor			
+Patient Events	Omission/errors in assessment, diagnosis, monitoring	Other (specify)			
+Patient Events					
+Patient Events	Other/miscellaneous				
+Patient Events	Other/miscellaneous	Abduction of a patient of any age			
+Patient Events	Other/miscellaneous	Confidentiality disclosure			
+Patient Events	Other/miscellaneous	Discharge against medical advice (AMA)			
+Patient Events	Other/miscellaneous	Discharge against medical advice (AMA)	Patient did not sign AMA form		
+Patient Events	Other/miscellaneous	Discharge against medical advice (AMA)	Patient signed AMA form		
+Patient Events	Other/miscellaneous	Discharge against medical advice (AMA)	Unknown/other (specify)		
+Patient Events	Other/miscellaneous	Left before visit completed (ED/outpatient)			
+Patient Events	Other/miscellaneous	Left without being seen (ED/outpatient)			
+Patient Events	Other/miscellaneous	Lost/stolen belongings			
+Patient Events	Other/miscellaneous	Patient discharged to the wrong person			
+Patient Events	Other/miscellaneous	Patient missing (potential elopement)			
+Patient Events	Other/miscellaneous	Patient or family complaint			
+Patient Events	Other/miscellaneous	Privacy inadequate			
+Patient Events	Other/miscellaneous	Other (specify)			
+Patient Events	Radiology/imaging test				
+Patient Events	Radiology/imaging test	Contrast extravasation			
+Patient Events	Radiology/imaging test	Contrast reaction			
+Patient Events	Radiology/imaging test	Delays, preprocedure or postprocedure"			
+Patient Events	Radiology/imaging test	Delays, preprocedure or postprocedure"	Delay in reporting		
+Patient Events	Radiology/imaging test	Delays, preprocedure or postprocedure"	Procedure delayed		
+Patient Events	Radiology/imaging test	Other (specify)			
+Patient Events	Radiology/imaging test	Discrepancy between ED interpretation of x-ray or EKG and final reading			
+Patient Events	Radiology/imaging test	Image unavailable or inadequate			
+Patient Events	Radiology/imaging test	Incorrect isotope or amount administered			
+Patient Events	Radiology/imaging test	Incorrect reading			
+Patient Events	Radiology/imaging test	Mislabeled study			
+Patient Events	Radiology/imaging test	MRI safety violation			
+Patient Events	Radiology/imaging test	Not completed			
+Patient Events	Radiology/imaging test	Not ordered			
+Patient Events	Radiology/imaging test	Ordered, not performed"			
+Patient Events	Radiology/imaging test	Unanticipated radiation exposure			
+Patient Events	Radiology/imaging test	Wrong patient			
+Patient Events	Radiology/imaging test	Wrong procedure			
+Patient Events	Radiology/imaging test	Wrong side (L vs R)			
+Patient Events	Radiology/imaging test	Wrong site			
+Patient Events	Radiology/imaging test	Other (specify)			
+Patient Events					
+Patient Events	Respiratory care				
+Patient Events	Respiratory care	Incomplete/incorrect treatment			
+Patient Events	Respiratory care	Incomplete/incorrect treatment	Medication involved		
+Patient Events	Respiratory care	Incomplete/incorrect treatment	Medication not involved		
+Patient Events	Respiratory care	Missed treatment			
+Patient Events	Respiratory care	Missed treatment	Medication involved		
+Patient Events	Respiratory care	Missed treatment	Medication not involved		
+Patient Events	Respiratory care	Oxygen/medical gas problem			
+Patient Events	Respiratory care	Self-/unplanned extubation			
+Patient Events	Respiratory care	Ventilator settings			
+Patient Events	Respiratory care	Ventilator settings	Alarm not audible		
+Patient Events	Respiratory care	Ventilator settings	Alarm not set properly		
+Patient Events	Respiratory care	Ventilator settings	Settings wrong/changed without authorization		
+Patient Events	Respiratory care	Ventilator settings	Other (specify)		
+Patient Events	Respiratory care	Other (specify)			
+Patient Events	Skin integrity				
+Patient Events	Skin integrity	Abrasion/scratch			
+Patient Events	Skin integrity	Blister			
+Patient Events	Skin integrity	Bruise/ecchymosis			
+Patient Events	Skin integrity	Burn (electrical, chemical, thermal)"			
+Patient Events	Skin integrity	Irritation/reddening			
+Patient Events	Skin integrity	Laceration			
+Patient Events	Skin integrity	Mucosal ulcer			
+Patient Events	Skin integrity	Pressure ulcer			
+Patient Events	Skin integrity	Rash			
+Patient Events	Skin integrity	Skin tear			
+Patient Events	Skin integrity	Venous stasis ulcer			
+Patient Events					
+Patient Events	Supplies				
+Patient Events	Supplies	Inadequate supplies			
+Patient Events	Supplies	Outdated item(s)			
+Patient Events	Supplies	Sterilization problem			
+Patient Events	Supplies	Supplies damaged/broken			
+Patient Events	Supplies	Supplies ordered, not received"			
+Patient Events	Supplies	Supplies ordered; wrong supplies received			
+Patient Events	Supplies	Used after product recall			
+Patient Events	Supplies	Wrong supplies used			
+Patient Events	Supplies	Other (specify)			
+Patient Events	Transfusion				
+Patient Events	Transfusion	Ordering			
+Patient Events	Transfusion	Ordering	Blood product/compatibility testing not requested		
+Patient Events	Transfusion	Ordering	Blood requested for wrong patient		
+Patient Events	Transfusion	Ordering	Special product need not requested		
+Patient Events	Transfusion	Ordering	Wrong component requested		
+Patient Events	Transfusion	Ordering	Other (specify)		
+Patient Events	Transfusion	Sample collection for compatibility testing			
+Patient Events	Transfusion	Sample collection for compatibility testing	Delay in collecting specimen		
+Patient Events	Transfusion	Sample collection for compatibility testing	Improperly labeled (wrong nonpatient identifiers)		
+Patient Events	Transfusion	Sample collection for compatibility testing	Mislabeled specimen (wrong patient identifiers)		
+Patient Events	Transfusion	Sample collection for compatibility testing	Mismatch from historical record		
+Patient Events	Transfusion	Sample collection for compatibility testing	Specimen inadequate		
+Patient Events	Transfusion	Sample collection for compatibility testing	Specimen label missing, incomplete, or illegible"		
+Patient Events	Transfusion	Sample collection for compatibility testing	Wrong blood in tube		
+Patient Events	Transfusion	Sample collection for compatibility testing	Other (specify)		
+Patient Events	Transfusion				
+Patient Events	Transfusion	Blood product dispensing or distribution			
+Patient Events	Transfusion	Blood product dispensing or distribution	Delay		
+Patient Events	Transfusion	Blood product dispensing or distribution	Mismatched unit		
+Patient Events	Transfusion	Blood product dispensing or distribution	Not available		
+Patient Events	Transfusion	Blood product dispensing or distribution	Patient/product information on pickup slip does not match order		
+Patient Events	Transfusion	Blood product dispensing or distribution	Special product need not issued		
+Patient Events	Transfusion	Blood product dispensing or distribution	Wrong component issued		
+Patient Events	Transfusion	Blood product dispensing or distribution	Other (specify)		
+Patient Events	Transfusion	Blood product administration			
+Patient Events	Transfusion	Blood product administration	Blood consent missing/incomplete		
+Patient Events	Transfusion	Blood product administration	Blood not administered		
+Patient Events	Transfusion	Blood product administration	Blood product administered with incorrect IV fluid		
+Patient Events	Transfusion	Blood product administration	Incorrect sequence of administration of products		
+Patient Events	Transfusion	Blood product administration	Incorrect use of expired or unacceptably stored products		
+Patient Events	Transfusion	Blood product administration	Incorrect volume (i.e., number of units or milliliters)"		
+Patient Events	Transfusion	Blood product administration	Units not transfused within time frame per protocol		
+Patient Events	Transfusion	Blood product administration	Wrong ABO/Rh type transfused		
+Patient Events	Transfusion	Blood product administration	Wrong patient transfused		
+Patient Events	Transfusion	Blood product administration	Wrong product transfused (e.g., heterologous vs autologous blood)"		
+Patient Events	Transfusion	Blood product administration	Wrong transfusion rate		
+Patient Events	Transfusion	Blood product administration	Unknown		
+Patient Events	Transfusion	Blood product administration	Other (specify)		
+Patient Events	Transfusion	Suspected transfusion reaction			
+Patient Events	Transfusion	Blood product wasted			
+Patient Events	Transfusion	Blood product wasted	Date on product expired		
+Patient Events	Transfusion	Blood product wasted	Not stored according to protocol		
+Patient Events	Transfusion	Blood product wasted	Product returned to blood bank after allowed time		
+Patient Events	Transfusion	Blood product wasted	Unit returned unusable (e.g., unit spiked)"		
+Patient Events	Transfusion	Other (specify)			

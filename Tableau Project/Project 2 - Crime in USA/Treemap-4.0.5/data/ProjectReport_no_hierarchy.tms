@@ -1,0 +1,266 @@
+false
+projectReport_no_hierarchy.tm3
+TREEMAP VERSION	Treemap 4.0
+FLIP_SLICE_AND_DICE	false
+PARTITIONING_METHOD	1
+NOMINAL_ATTRIBUTE	5
+3	62
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+3	15
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+3	6
+true
+true
+true
+true
+true
+true
+2	2
+true
+true
+1	4
+true
+true
+true
+true
+LABEL_ATTRIBUTE_INDEX	-2
+SIZE_ATTRIBUTE_NUMERIC_INDEX	1
+COLOR_ATTRIBUTE_INDEX	4
+NEGATIVE_COLOR	255	0	0
+ZERO_COLOR	0	0	0
+POSITIVE_COLOR	0	255	0
+AUTOHIDE	false
+VISIBLE_POPUP	true
+DIRECTORY_MAPPING_DATA	false
+FONT_SIZE	12
+BORDER_SIZE	3
+ALL_NOMINAL_STRINGS_TO_COLORS	5
+0
+62
+Gb  Ethernet card	10	127	0	254
+guard band	39	255	255	255
+Integrated Craft	60	255	255	255
+K-Channel	41	255	255	255
+Cisco view 3.1	51	255	255	255
+Line Amplifier	15	127	254	254
+Transmitter	22	254	254	0
+Combiner	3	0	127	127
+digital equalizer	8	127	0	0
+tilt control	36	191	191	64
+Q3 core	55	255	255	255
+C-band	43	255	255	255
+Transceiver	0	0	0	127
+GDMO	54	255	255	255
+Wave length switch	5	0	254	0
+2.5G-mux	32	32	159	159
+Receiver	23	254	254	127
+Gain Frequency Amplifier	21	254	127	254
+Sonet/SDH	12	127	127	254
+Light works	61	255	255	255
+Photonics	50	255	255	255
+Nodal Control Processor	14	127	254	127
+Span Control	24	96	96	223
+router-22	34	159	32	159
+Optical Add drop multiplexer	27	223	96	96
+De multiplexer	18	254	0	254
+node manager 4.0	48	255	255	255
+C-band amp	45	255	255	255
+Order wire	11	127	127	0
+Multi span control	25	96	223	96
+Protect Switch	13	127	254	0
+New Facility	57	255	255	255
+Router-Excel	4	0	127	254
+FBG	37	255	255	255
+Gb Ethernet	9	127	0	127
+Grating control	38	255	255	255
+Amp Control	46	255	255	255
+node manager 3.0	47	255	255	255
+C-Channel	42	255	255	255
+2.5 G Transceiver	30	32	32	159
+Craft	59	255	255	255
+snmp	53	255	255	255
+Network monitor	49	255	255	255
+micro controller	29	223	223	96
+Regenerator	19	254	127	0
+Event manager	56	255	255	255
+Fish-eye control	40	255	255	255
+Node manager	26	96	223	223
+tl1	52	255	255	255
+Splitter	2	0	127	0
+Shelf Amplifier	1	0	0	254
+10G-mux	31	32	159	32
+Call backs	58	255	255	255
+Band Filter	17	254	0	127
+40G-WDM	33	159	32	32
+Channel Plan	44	255	255	255
+Forward error correction	28	223	96	223
+amp monitor	7	0	254	254
+Multiplexer	16	254	0	0
+drift control	35	159	159	32
+Optical module	6	0	254	127
+Attenuator	20	254	127	127
+1
+15
+"April, Robin"	7	0	254	254
+"Peter, Steve"	14	127	254	127
+"Spark, Carla"	12	127	127	254
+"Kling, Bill"	11	127	127	0
+"Jones, Julie D"	13	127	254	0
+"April, Robin G."	9	127	0	127
+"Guidry, Karen"	5	0	254	0
+"Boss, Mike"	0	0	0	127
+"Clausen, John"	4	0	127	254
+"Clark, Ellen"	3	0	127	127
+"Philo, Donald"	8	127	0	0
+"Plaza, Joel"	10	127	0	254
+"Boardman, Roger"	2	0	127	0
+"Larkin, Steven"	6	0	254	127
+"Blouin, Jacques"	1	0	0	254
+6
+6
+2-design	3	0	127	127
+"1-Scoping, Requirements analysis and specifications"	5	0	254	0
+4-integration	1	0	0	254
+3-implementation	4	0	127	254
+5-validation	0	0	0	127
+6-maintenance	2	0	127	0
+10
+2
+East	1	0	0	254
+West	0	0	0	127
+11
+4
+Maryland	3	0	127	127
+New York	1	0	0	254
+Virginia	2	0	127	0
+San Fransisco	0	0	0	127
+LOG_COLOR	false
+SQUARE_ROOT_COLOR_STRING	false
+COLOR_BINNING_PROPERTIES
+0	0.00	100.00	1	0	0	0	0	255	0
+0	10000.00	2000000.00	1	0	0	0	0	255	0
+3	-125000.00	1000000.00	4	0.00	100000.00	500000.00	1000000.00	255	0	0	255	0	0	0	0	0	0	255	51	0	255	0	255	255	0	255	255	0	153	0	153
+0	1000.00	1700000.00	1	0	0	0	0	255	0
+0	0.00	100.00	1	0	0	0	0	255	0
+0	19021.00	19638.00	1	0	0	0	0	255	0
+0	7.00	12.00	1	0	0	0	0	255	0
+HIERARCHY_HISTORY
+1
+Hierarchy: 1	1
+6	
+0
+-1	-1
+BINNING_PROPERTIES
+0	0.00	100.00	1
+0	10000.00	2000000.00	1
+0	-125000.00	1000000.00	1
+0	1000.00	1700000.00	1
+0	0.00	100.00	1
+0	19021.00	19638.00	1
+0	7.00	12.00	1
+USER_MAXIMUM_DEPTH	2
+HIDE_LEAF_LABEL	false
+NUMERICAL_ATTRIBUTE_USER_MINIMA	7
+false	-1
+false	9999
+false	-125001
+false	999
+false	-1
+false	19020
+false	6
+NUMERICAL_ATTRIBUTE_USER_MAXIMA	7
+false	101
+false	2000001
+false	1000001
+false	1700001
+false	101
+false	19639
+false	13
+AGGREGATE_FUNCTION	7
+2	1
+3	1
+4	1
+5	1
+7	1
+8	1
+9	1
+HIGHLIGHTED_NODE	0
+TREEMAP_TITLE	projectReport_no_hierarchy.tm3
+NO_BORDER	false
+USER_ROOT	-1
+END_SETTINGS

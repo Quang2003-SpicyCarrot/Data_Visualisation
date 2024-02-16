@@ -1,0 +1,354 @@
+Western Sydney University	School of Business	Undergraduate	Bachelor of Business (Advanced Business Leadership)							
+Western Sydney University	School of Business	Undergraduate	Bachelor of Accounting							
+Western Sydney University	School of Business	Undergraduate	Bachelor of Business 							
+Western Sydney University	School of Business	Undergraduate	Accounting 							
+Western Sydney University	School of Business	Undergraduate	Applied Finance							
+Western Sydney University	School of Business	Undergraduate	Economics							
+Western Sydney University	School of Business	Undergraduate	Hospitality Management							
+Western Sydney University	School of Business	Undergraduate	Human Resources Management							
+Western Sydney University	School of Business	Undergraduate	International Business							
+Western Sydney University	School of Business	Undergraduate	Management							
+Western Sydney University	School of Business	Undergraduate	Marketing							
+Western Sydney University	School of Business	Undergraduate	Property							
+Western Sydney University	School of Business	Undergraduate	Sport management							
+Western Sydney University	School of Business	Undergraduate	Bachelor of Business Administration							
+Western Sydney University	School of Business	Undergraduate	Bachelor of Applied Leadership							
+Western Sydney University	School of Business	Postgraduate	Executive Master of Business Administration							
+Western Sydney University	School of Business	Postgraduate	Master of Business Administration							
+Western Sydney University	School of Business	Postgraduate	Graduate Certificate in Business							
+Western Sydney University	School of Business	Postgraduate	Postgraduate Qualifying Program (School of Business)							
+Western Sydney University	School of Business	Postgraduate	Master of Applied Finance							
+Western Sydney University	School of Business	Double degree	Bachelor of Arts / Bachelor of Business							
+Western Sydney University	School of Business	Double degree	Bachelor of Business / Bachelor of Applied Leadership and Critical Thinking							
+Western Sydney University	School of Business	Double degree	Bachelor of Communication (Advertising and Public Relations) / Bachelor of Business							
+Western Sydney University	School of Business	Double degree	Bachelor of Science/ Bachelor of Business							
+Western Sydney University	School of Business	Double degree	Bachelor of Information and Communications Technology/ Bachelor of Business							
+Western Sydney University	School of Business	Double degree	Bachelor of Information and Communications Technology/ Bachelor of Business (Accounting)							
+Western Sydney University	School of Business	Double degree	Bachelor of Business / Bachelor of Laws							
+Western Sydney University	School of Business	Double degree	Bachelor of Business (Advanced Business Leadership)/ Bachelor of Laws							
+Western Sydney University	School of Business	Double degree	Bachelor of International Studies/Bachelor of Business							
+Western Sydney University	"School of Computing, Engineering and Mathematics"	Undergraduate 	Bachelor of Building Design Management							
+Western Sydney University	"School of Computing, Engineering and Mathematics"	Undergraduate 	Bachelor of Computer Science							
+Western Sydney University	"School of Computing, Engineering and Mathematics"	Undergraduate 	Bachelor of Computer Science (Advanced)							
+Western Sydney University	"School of Computing, Engineering and Mathematics"	Undergraduate 	Bachelor of Construction Management							
+Western Sydney University	"School of Computing, Engineering and Mathematics"	Undergraduate 	Bachelor of Construction Technology							
+Western Sydney University	"School of Computing, Engineering and Mathematics"	Undergraduate 	Bachelor of Data Science							
+Western Sydney University	"School of Computing, Engineering and Mathematics"	Undergraduate 	Bachelor of Design and Technology							
+Western Sydney University	"School of Computing, Engineering and Mathematics"	Undergraduate 	Bachelor of Engineering Advanced (Honours)							
+Western Sydney University	"School of Computing, Engineering and Mathematics"	Undergraduate 	"Bachelor of Engineering Honours (Key Programs in Civil, Construction, Electrical, Mechanical, Robotics and Mechatronics)"							
+Western Sydney University	"School of Computing, Engineering and Mathematics"	Undergraduate 	Bachelor of Entrepreneurship (Games Design and Simulation)							
+Western Sydney University	"School of Computing, Engineering and Mathematics"	Undergraduate 	Bachelor of Industrial Design							
+Western Sydney University	"School of Computing, Engineering and Mathematics"	Undergraduate 	Bachelor of Information and Communications Technology (ICT) Advanced							
+Western Sydney University	"School of Computing, Engineering and Mathematics"	Undergraduate 	Bachelor of Information and Communications Technology (ICT)							
+Western Sydney University	"School of Computing, Engineering and Mathematics"	Undergraduate 	Bachelor of Information and Communications Technology (Health Information Management)							
+Western Sydney University	"School of Computing, Engineering and Mathematics"	Undergraduate 	Bachelor of Information Systems							
+Western Sydney University	"School of Computing, Engineering and Mathematics"	Undergraduate 	Bachelor of Information Systems (Advanced)							
+Western Sydney University	"School of Computing, Engineering and Mathematics"	Postgraduate	Graduate Certificate in Bushfire Protection							
+Western Sydney University	"School of Computing, Engineering and Mathematics"	Postgraduate	Graduate Certificate in Engineering							
+Western Sydney University	"School of Computing, Engineering and Mathematics"	Postgraduate	Graduate Certificate in Fire Safety Engineering							
+Western Sydney University	"School of Computing, Engineering and Mathematics"	Postgraduate	Graduate Certificate in Information Communications Technology							
+Western Sydney University	"School of Computing, Engineering and Mathematics"	Postgraduate	Graduate Diploma in Building Surveying							
+Western Sydney University	"School of Computing, Engineering and Mathematics"	Postgraduate	Graduate Diploma in Bushfire Protection							
+Western Sydney University	"School of Computing, Engineering and Mathematics"	Postgraduate	Graduate Diploma in Fire Safety Engineering							
+Western Sydney University	"School of Computing, Engineering and Mathematics"	Postgraduate	Graduate Diploma in Information Communications Technology							
+Western Sydney University	"School of Computing, Engineering and Mathematics"	Postgraduate	Master of Building Surveying							
+Western Sydney University	"School of Computing, Engineering and Mathematics"	Postgraduate	Master of Bushfire Protection							
+Western Sydney University	"School of Computing, Engineering and Mathematics"	Postgraduate	Master of Data Science							
+Western Sydney University	"School of Computing, Engineering and Mathematics"	Postgraduate	Master of Engineering							
+Western Sydney University	"School of Computing, Engineering and Mathematics"	Postgraduate	Master of Fire Safety Engineering							
+Western Sydney University	"School of Computing, Engineering and Mathematics"	Postgraduate	Master of Information and Communications Technologies							
+Western Sydney University	"School of Computing, Engineering and Mathematics"	Postgraduate	Master of Information and Communications Technologies (Advanced)							
+Western Sydney University	"School of Computing, Engineering and Mathematics"	Postgraduate	Master of Planning							
+Western Sydney University	"School of Computing, Engineering and Mathematics"	Postgraduate	Graduate Diploma in Information Communications Technologies							
+Western Sydney University	"School of Computing, Engineering and Mathematics"	Postgraduate	Graduate Certificate in Information and Communications Technologies							
+Western Sydney University	"School of Computing, Engineering and Mathematics"	Postgraduate	Bachelor of Data Science Double Degrees							
+Western Sydney University	"School of Computing, Engineering and Mathematics"	Postgraduate	Bachelor of Information and Communications Technology / Bachelor of Arts							
+Western Sydney University	"School of Computing, Engineering and Mathematics"	Postgraduate	Bachelor of Information and Communications Technology / Bachelor of Business							
+Western Sydney University	"School of Computing, Engineering and Mathematics"	Postgraduate	Bachelor of Information and Communications Technology / Bachelor of Business (Accounting)							
+Western Sydney University	"School of Computing, Engineering and Mathematics"	Postgraduate	Bachelor of Information and Communications Technology/ Bachelor of Laws							
+Western Sydney University	"School of Computing, Engineering and Mathematics"	Postgraduate	Bachelor of Construction Management Studies/Bachelor of Laws							
+Western Sydney University	"School of Computing, Engineering and Mathematics"	Honours Courses	Bachelor of Science (Honours) Mathematics							
+Western Sydney University	"School of Computing, Engineering and Mathematics"	Honours Courses	Bachelor of Engineering Advanced (Honours) (embedded)							
+Western Sydney University	"School of Computing, Engineering and Mathematics"	Honours Courses	Bachelor of Industrial Design (Honours) (embedded)							
+Western Sydney University	School of education	Undergraduate Teacher Education	Bachelor of Graphic Design / Pathway to Teaching Secondary							
+Western Sydney University	School of education	Undergraduate Teacher Education	Bachelor of Education (Primary) Aboriginal and Torres Strait Islander Education							
+Western Sydney University	School of education	Undergraduate Teacher Education	Bachelor of Business/ Pathway to Teaching Secondary							
+Western Sydney University	School of education	Undergraduate Teacher Education	Bachelor of Health Science (HPE) - Pathway to Teaching (Secondary)							
+Western Sydney University	School of education	Teacher education	Early Childhood Courses	Bachelor of Graphic Design / Pathway to Teaching Secondary						
+Western Sydney University	School of education	Teacher education	Early Childhood Courses	Master of Teaching (Birth-5 Years/Birth-12 Years)						
+Western Sydney University	School of education	Teacher education	Early Childhood Courses	Bachelor of Arts (Pathway to Teaching Birth - 5/Birth - 12)						
+Western Sydney University	School of education	Teacher education	Early Childhood Courses	Bachelor of Business/ Pathway to Teaching Secondary						
+Western Sydney University	School of education	Teacher education	Early Childhood Courses	Bachelor of Health Science (HPE) - Pathway to Teaching (Secondary)						
+Western Sydney University	School of education	Teacher education	Primary Teaching Courses	Bachelor of Graphic Design / Pathway to Teaching Secondary						
+Western Sydney University	School of education	Teacher education	Primary Teaching Courses	Bachelor of Arts (Pathway to Teaching Primary)						
+Western Sydney University	School of education	Teacher education	Primary Teaching Courses	Bachelor of Education (Primary) Aboriginal and Torres Strait Islander Education						
+Western Sydney University	School of education	Teacher education	Primary Teaching Courses	Bachelor of Business/ Pathway to Teaching Secondary						
+Western Sydney University	School of education	Teacher education	Primary Teaching Courses	Bachelor of Health Science (HPE) - Pathway to Teaching (Secondary)						
+Western Sydney University	School of education	Teacher education	Secondary Teaching Courses	Bachelor of Graphic Design / Pathway to Teaching Secondary						
+Western Sydney University	School of education	Teacher education	Secondary Teaching Courses	Bachelor of Science -Pathway to Teaching (Primary/Secondary)						
+Western Sydney University	School of education	Teacher education	Secondary Teaching Courses	Bachelor of Arts (Pathway to Teaching Secondary)						
+Western Sydney University	School of education	Teacher education	Secondary Teaching Courses	Master of Teaching (Secondary)						
+Western Sydney University	School of education	Teacher education	Secondary Teaching Courses	Bachelor of Business/ Pathway to Teaching Secondary						
+Western Sydney University	School of education	Teacher education	Secondary Teaching Courses	Graduate Certificate in Education (Curriculum Specialisation)						
+Western Sydney University	School of education	Teacher education	Secondary Teaching Courses	Bachelor of Health Science (HPE) - Pathway to Teaching (Secondary)						
+Western Sydney University	School of education	Teacher education	Secondary Teaching Courses	Master of Teaching (Secondary) STEM						
+Western Sydney University	School of education	Postgraduate	STEM courses	Master of Education (STEM)						
+Western Sydney University	School of education	Postgraduate	STEM courses	Graduate Certificate in Primary Science Education						
+Western Sydney University	School of education	Postgraduate	STEM courses	Graduate Certificate in Primary Mathematics Education						
+Western Sydney University	School of education	Postgraduate	STEM courses	Master of Teaching (Secondary) STEM						
+Western Sydney University	School of education	Postgraduate	Social Ecology	Bachelor of Graphic Design / Pathway to Teaching Secondary						
+Western Sydney University	School of education	Postgraduate	Social Ecology	Master of Education (Social Ecology)						
+Western Sydney University	School of education	Postgraduate	Social Ecology	Bachelor of Business/ Pathway to Teaching Secondary						
+Western Sydney University	School of education	Postgraduate	Social Ecology	Bachelor of Health Science (HPE) - Pathway to Teaching (Secondary)						
+Western Sydney University	School of education	Postgraduate	Social Ecology	Graduate Certificate in Education (Social Ecology)						
+Western Sydney University	School of education	Postgraduate	Social Ecology	Master of Teaching (Secondary) STEM						
+Western Sydney University	School of education	Postgraduate	Social Ecology	Graduate Certificate in Language Teaching and Bilingualism (Birth-12 years)						
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Language and Linguistics							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Arts - Sociology							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Arts - Peace and Development Studies							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Arts - Global Business							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Arts - Heritage and Tourism							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Arts - Organisations and Work							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Arts - International English							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Arts - Criminology and Criminal Justice							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Arts - Creative Writing							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Arts - Geography and Urban Studies							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Arts - Anthropology							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Arts - Innovation and Change							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Arts - Musicology							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Arts - Music Performance							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Music / Bachelor of Creative Industries							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Arts - Economy and Markets							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Design / Bachelor of Creative Industries							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor Psychological Studies (Honours)							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Graphic Design / Pathway to Teaching Secondary							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Design (Visual Communication)							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Music							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Arts (Pathway to Teaching Secondary)							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Arts (Pathway to Teaching Primary)							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Arts (Pathway to Teaching Birth - 5/Birth - 12)							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Arts (Dean's Scholars)							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Arts - Islamic Studies Major							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Arts - International Relations and Asian Studies Major							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Arts - Cultural and Social Analysis Major							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Arts - English Major							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Arts - History and Political Thought Major							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of International Studies							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Arts / Bachelor of Laws							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Communication / Bachelor of Laws							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Information and Communications Technology / Bachelor of Arts							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Science / Bachelor of Arts							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Science / Bachelor of International Studies							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Arts - Philosophy Major							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Arts - Linguistics Major							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Arts (Interpreting and Translation) Dean's Scholars							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of International Studies / Bachelor of Business							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Arts / Bachelor of Business							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Arts (Interpreting and Translation)							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Arts - Indigenous Australian Studies Major							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Communication / Bachelor of International Studies							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of International Studies / Bachelor of Laws							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Communication / Bachelor of Business							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Communication (Dean's Scholars)							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Design - Visual Communication (Dean's Scholars)							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Music (Dean's Scholars)							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of International Studies (Dean's Scholars)							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Communication							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Screen Media (Arts and Production)							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Arts / Bachelor of Creative Industries							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Communication/Bachelor of Creative Industries							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Arts (Dean's Scholars) / Pathway to Teaching (Primary)							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Arts (Pathway to Teaching Secondary) Dean's Scholars							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Creative Industries							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Arts - Chinese Major							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Arts - Arabic Major							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Arts - Indonesian Major							
+Western Sydney University	School of Humanities and Communication Arts	Undergraduate	Bachelor of Arts - Japanese Major							
+Western Sydney University	School of Humanities and Communication Arts	Postgraduate	Master of Creative Industries							
+Western Sydney University	School of Humanities and Communication Arts	Postgraduate	Graduate Certificate in Creative Industries							
+Western Sydney University	School of Humanities and Communication Arts	Postgraduate	Master of Digital Humanities							
+Western Sydney University	School of Humanities and Communication Arts	Postgraduate	Graduate Certificate in TESOL							
+Western Sydney University	School of Humanities and Communication Arts	Postgraduate	Graduate Diploma in TESOL							
+Western Sydney University	School of Humanities and Communication Arts	Postgraduate	Master of Arts (TESOL)							
+Western Sydney University	School of Humanities and Communication Arts	Postgraduate	Master of Interpreting and Translation							
+Western Sydney University	School of Humanities and Communication Arts	Postgraduate	Master of Arts Translation and Interpreting Studies							
+Western Sydney University	School of Humanities and Communication Arts	Postgraduate	Graduate Diploma in Translation							
+Western Sydney University	School of Humanities and Communication Arts	Postgraduate	Graduate Diploma in Interpreting							
+Western Sydney University	School of Humanities and Communication Arts	Postgraduate	Graduate Certificate in Interpreting and Translation							
+Western Sydney University	School of Humanities and Communication Arts	Postgraduate	Master of Arts in Literature and Creative Writing							
+Western Sydney University	School of Humanities and Communication Arts	Postgraduate	Graduate Diploma in Creative Industries							
+Western Sydney University	School of Humanities and Communication Arts	Postgraduate	Master of Translation and TESOL							
+Western Sydney University	School of Humanities and Communication Arts	Postgraduate	Master of Translation and TESOL							
+Western Sydney University	School of Humanities and Communication Arts	Postgraduate	Master of Arts in Continental Philosophy							
+Western Sydney University	School of Humanities and Communication Arts	Postgraduate	Graduate Diploma in Continental Philosophy							
+Western Sydney University	School of Humanities and Communication Arts	Postgraduate	Graduate Certificate in Continental Philosophy							
+Western Sydney University	School of Humanities and Communication Arts	Higher Degree Research	Master of research							
+Western Sydney University	School of Humanities and Communication Arts	Higher Degree Research	Master of Philosophy							
+Western Sydney University	School of Humanities and Communication Arts	Higher Degree Research	Doctor of Philosophy (PHD)							
+Western Sydney University	School of Humanities and Communication Arts	Higher Degree Research	Professional Doctorates							
+Western Sydney University	School of Law	Undergraduate	Bachelor of Laws (Non-graduate entry)							
+Western Sydney University	School of Law	Undergraduate	Bachelor of Laws (Graduate entry)							
+Western Sydney University	School of Law	Undergraduate	Bachelor of Business / Bachelor of Laws							
+Western Sydney University	School of Law	Undergraduate	Bachelor of Accounting / Bachelor of Laws							
+Western Sydney University	School of Law	Undergraduate	Bachelor of Construction Management Studies / Bachelor of Laws							
+Western Sydney University	School of Law	Undergraduate	Bachelor of International Studies / Bachelor of Laws							
+Western Sydney University	School of Law	Undergraduate	Bachelor of Criminal and Community Justice / Bachelor of Laws							
+Western Sydney University	School of Law	Undergraduate	Bachelor of Science / Bachelor of Laws							
+Western Sydney University	School of Law	Undergraduate	Bachelor of Criminology / Bachelor of Laws							
+Western Sydney University	School of Law	Undergraduate	Bachelor of Arts / Bachelor of Laws							
+Western Sydney University	School of Law	Undergraduate	Bachelor of Information Systems (Advanced)/Bachelor of Laws							
+Western Sydney University	School of Law	Undergraduate	Bachelor of Information Systems/Bachelor of Laws							
+Western Sydney University	School of Law	Undergraduate	Bachelor of Information and Communications Technology / Bachelor of Laws							
+Western Sydney University	School of Law	Undergraduate	Bachelor of Social Science / Bachelor of Laws							
+Western Sydney University	School of Law	Postgraduate	Master of Information Governance							
+Western Sydney University	School of Law	Postgraduate	Master of Laws (International Governance)							
+Western Sydney University	School of Law	Postgraduate	Graduate Diploma in Australian Migration Law							
+Western Sydney University	School of Medicine	Undergraduate	Bachelor of Medical Research							
+Western Sydney University	School of Medicine	Undergraduate	Doctor of Medicine							
+Western Sydney University	School of Medicine	Postgraduate	Master of Cardiac Sonography							
+Western Sydney University	School of Medicine	Postgraduate	Master of Medicine (Allergic Diseases)							
+Western Sydney University	School of Medicine	Postgraduate	Master of Medicine (Pathology)							
+Western Sydney University	School of Medicine	Postgraduate	Graduate Certificate in Allergic Diseases							
+Western Sydney University	School of Medicine	Postgraduate	Graduate Diploma in Cardiac Sonography							
+Western Sydney University	School of Medicine	Postgraduate	Master of Epidemiology							
+Western Sydney University	School of Medicine	Postgraduate	Graduate Diploma in Epidemiology							
+Western Sydney University	School of Medicine	Postgraduate	Graduate Certificate in Epidemiology							
+Western Sydney University	School of Medicine	Higher Degree Research	Master of Research							
+Western Sydney University	School of Medicine	Higher Degree Research	Master of Philosophy							
+Western Sydney University	School of Medicine	Higher Degree Research	Doctor of Philosophy (PhD)							
+Western Sydney University	School of Nursing and Midwifery	Undergraduate	Bachelor of Midwifery							
+Western Sydney University	School of Nursing and Midwifery	Undergraduate	Bachelor of Nursing							
+Western Sydney University	School of Nursing and Midwifery	Undergraduate	Bachelor of Nursing (Advanced)							
+Western Sydney University	School of Nursing and Midwifery	Postgraduate	Graduate Certificate in Nursing							
+Western Sydney University	School of Nursing and Midwifery	Postgraduate	Graduate Certificate in Primary Health Care							
+Western Sydney University	School of Nursing and Midwifery	Postgraduate	Graduate Diploma in Child and Family Health (Karitane)							
+Western Sydney University	School of Nursing and Midwifery	Postgraduate	Graduate Diploma in Mental Health Nursing							
+Western Sydney University	School of Nursing and Midwifery	Postgraduate	Graduate Diploma in Midwifery							
+Western Sydney University	School of Nursing and Midwifery	Postgraduate	Graduate Diploma in Nursing							
+Western Sydney University	School of Nursing and Midwifery	Postgraduate	Graduate Diploma in Primary Health Care							
+Western Sydney University	School of Nursing and Midwifery	Postgraduate	Master of Child and Family Health (Karitane)							
+Western Sydney University	School of Nursing and Midwifery	Postgraduate	Master of Mental Health Nursing							
+Western Sydney University	School of Nursing and Midwifery	Postgraduate	Master of Nurse Practitioner (Mental Health)							
+Western Sydney University	School of Nursing and Midwifery	Postgraduate	Master of Nursing							
+Western Sydney University	School of Nursing and Midwifery	Postgraduate	Master of Nursing (Professional Studies)							
+Western Sydney University	School of Nursing and Midwifery	Postgraduate	Master of Primary Health Care							
+Western Sydney University	School of Nursing and Midwifery	Higher Degree Research	Master of Research							
+Western Sydney University	School of Nursing and Midwifery	Higher Degree Research	Master of Philosophy							
+Western Sydney University	School of Nursing and Midwifery	Higher Degree Research	Doctor of Philosophy (PhD)							
+Western Sydney University	School of Nursing and Midwifery	Higher Degree Research	Professional Doctorates							
+Western Sydney University	School of Social Sciences and Psychology	Undergraduate	Bachelor of Anthropology							
+Western Sydney University	School of Social Sciences and Psychology	Undergraduate	Bachelor of Arts (with a key program in Psychology)							
+Western Sydney University	School of Social Sciences and Psychology	Undergraduate	Bachelor of Arts - Psychological Studies Major							
+Western Sydney University	School of Social Sciences and Psychology	Undergraduate	Bachelor of Arts / Bachelor of Social Science							
+Western Sydney University	School of Social Sciences and Psychology	Undergraduate	Bachelor of Community Welfare							
+Western Sydney University	School of Social Sciences and Psychology	Undergraduate	Bachelor of Criminal and Community Justice							
+Western Sydney University	School of Social Sciences and Psychology	Undergraduate	Bachelor of Criminal and Community Justice / Bachelor of Laws							
+Western Sydney University	School of Social Sciences and Psychology	Undergraduate	Bachelor of Criminal and Community Justice / Bachelor of Social Work							
+Western Sydney University	School of Social Sciences and Psychology	Undergraduate	Bachelor of Criminology							
+Western Sydney University	School of Social Sciences and Psychology	Undergraduate	Bachelor of Criminology / Bachelor of Laws							
+Western Sydney University	School of Social Sciences and Psychology	Undergraduate	Bachelor of Cyber Security and Behaviour							
+Western Sydney University	School of Social Sciences and Psychology	Undergraduate	Bachelor of Humanitarian and Development Studies							
+Western Sydney University	School of Social Sciences and Psychology	Undergraduate	Bachelor of International Studies / Bachelor of Social Science							
+Western Sydney University	School of Social Sciences and Psychology	Undergraduate	Bachelor of Planning / Master of Urban Management and Planning							
+Western Sydney University	School of Social Sciences and Psychology	Undergraduate	Bachelor of Policing							
+Western Sydney University	School of Social Sciences and Psychology	Undergraduate	Bachelor of Policing (Leadership Program)							
+Western Sydney University	School of Social Sciences and Psychology	Undergraduate	Bachelor of Psychology (Honours)							
+Western Sydney University	School of Social Sciences and Psychology	Undergraduate	Bachelor of Science Criminology and Psychological Studies							
+Western Sydney University	School of Social Sciences and Psychology	Undergraduate	Bachelor of Social Science							
+Western Sydney University	School of Social Sciences and Psychology	Undergraduate	Bachelor of Social Science (Advanced)							
+Western Sydney University	School of Social Sciences and Psychology	Undergraduate	Bachelor of Social Science (Anthropology)							
+Western Sydney University	School of Social Sciences and Psychology	Undergraduate	Bachelor of Social Science (Child and Community)							
+Western Sydney University	School of Social Sciences and Psychology	Undergraduate	Bachelor of Social Science (Criminology and Criminal Justice)							
+Western Sydney University	School of Social Sciences and Psychology	Undergraduate	Bachelor of Social Science (Geography and Urban Studies)							
+Western Sydney University	School of Social Sciences and Psychology	Undergraduate	Bachelor of Social Science (Heritage and Tourism)							
+Western Sydney University	School of Social Sciences and Psychology	Undergraduate	Bachelor of Social Science (Peace and Development Studies)							
+Western Sydney University	School of Social Sciences and Psychology	Undergraduate	Bachelor of Social Science (Psychology)							
+Western Sydney University	School of Social Sciences and Psychology	Undergraduate	Bachelor of Social Science (Sociology)							
+Western Sydney University	School of Social Sciences and Psychology	Undergraduate	Bachelor of Social Science / Bachelor of Laws							
+Western Sydney University	School of Social Sciences and Psychology	Undergraduate	Bachelor of Social Work							
+Western Sydney University	School of Social Sciences and Psychology	Undergraduate	Bachelor of Tourism Management							
+Western Sydney University	School of Social Sciences and Psychology	Postgraduate	Doctor of Philosophy/Master of Clinical Psychology							
+Western Sydney University	School of Social Sciences and Psychology	Postgraduate	Graduate Certificate in Counselling							
+Western Sydney University	School of Social Sciences and Psychology	Postgraduate	Graduate Certificate in Humanitarian and Development Studies							
+Western Sydney University	School of Social Sciences and Psychology	Postgraduate	Graduate Certificate in International Criminology							
+Western Sydney University	School of Social Sciences and Psychology	Postgraduate	Graduate Certificate in Social Science							
+Western Sydney University	School of Social Sciences and Psychology	Postgraduate	Graduate Certificate in Urban Management and Planning							
+Western Sydney University	School of Social Sciences and Psychology	Postgraduate	Graduate Diploma in Counselling							
+Western Sydney University	School of Social Sciences and Psychology	Postgraduate	Graduate Diploma in Humanitarian and Development Studies							
+Western Sydney University	School of Social Sciences and Psychology	Postgraduate	Graduate Diploma in International Criminology							
+Western Sydney University	School of Social Sciences and Psychology	Postgraduate	Graduate Diploma in Psychology							
+Western Sydney University	School of Social Sciences and Psychology	Postgraduate	Graduate Diploma in Social Science							
+Western Sydney University	School of Social Sciences and Psychology	Postgraduate	Graduate Diploma of Psychological Studies							
+Western Sydney University	School of Social Sciences and Psychology	Postgraduate	Master of Art Therapy							
+Western Sydney University	School of Social Sciences and Psychology	Postgraduate	Master of Clinical Psychology							
+Western Sydney University	School of Social Sciences and Psychology	Postgraduate	Master of Humanitarian and Development Studies							
+Western Sydney University	School of Social Sciences and Psychology	Postgraduate	Master of International Criminology							
+Western Sydney University	School of Social Sciences and Psychology	Postgraduate	Master of Planning							
+Western Sydney University	School of Social Sciences and Psychology	Postgraduate	Master of Professional Psychology							
+Western Sydney University	School of Social Sciences and Psychology	Postgraduate	Master of Project Management							
+Western Sydney University	School of Social Sciences and Psychology	Postgraduate	Master of Psychotherapy and Counselling							
+Western Sydney University	School of Social Sciences and Psychology	Postgraduate	Master of Social Science							
+Western Sydney University	School of Social Sciences and Psychology	Postgraduate	"Master of Social Science (Development, Security and Sustainability)"							
+Western Sydney University	School of Social Sciences and Psychology	Postgraduate	Master of Social Science (Difference and Diversity)							
+Western Sydney University	School of Social Sciences and Psychology	Postgraduate	Master of Social Science (Digital Research and Social Data Analytics)							
+Western Sydney University	School of Social Sciences and Psychology	Postgraduate	Master of Social Science (International Criminology)							
+Western Sydney University	School of Social Sciences and Psychology	Postgraduate	Master of Social Science (Religion and Society)							
+Western Sydney University	School of Social Sciences and Psychology	Postgraduate	Master of Social Work (Qualifying)							
+Western Sydney University	School of Social Sciences and Psychology	Postgraduate	Master of Urban Management and Planning							
+Western Sydney University	School of Social Sciences and Psychology	Higher Degree Research	Master of Research							
+Western Sydney University	School of Social Sciences and Psychology	Higher Degree Research	Master of Philosophy							
+Western Sydney University	School of Social Sciences and Psychology	Higher Degree Research	Doctor of Philosophy (PhD)							
+Western Sydney University	School of Social Sciences and Psychology	Higher Degree Research	Professional Doctorates							
+Western Sydney University	School of Science and Health	Undergraduate	Bachelor of Health Science (Health and Physical Education)							
+Western Sydney University	School of Science and Health	Undergraduate	Bachelor of Health Science (Health Promotion)							
+Western Sydney University	School of Science and Health	Undergraduate	Bachelor of Health Science (Health Services Management)							
+Western Sydney University	School of Science and Health	Undergraduate	Bachelor of Health Science (HPE) - Pathway to Teaching (Secondary)							
+Western Sydney University	School of Science and Health	Undergraduate	Bachelor of Health Science (Paramedicine)							
+Western Sydney University	School of Science and Health	Undergraduate	Bachelor of Health Science (Public Health)							
+Western Sydney University	School of Science and Health	Undergraduate	Bachelor of Health Science (Sport and Exercise Science)							
+Western Sydney University	School of Science and Health	Undergraduate	Bachelor of Health Science (Therapeutic Recreation)							
+Western Sydney University	School of Science and Health	Undergraduate	Bachelor of Medical Science							
+Western Sydney University	School of Science and Health	Undergraduate	Bachelor of Medical Science (Advanced)							
+Western Sydney University	School of Science and Health	Undergraduate	Bachelor of Natural Science (Advanced)							
+Western Sydney University	School of Science and Health	Undergraduate	Bachelor of Natural Science (Animal Science)							
+Western Sydney University	School of Science and Health	Undergraduate	Bachelor of Natural Science (Environment and Health)							
+Western Sydney University	School of Science and Health	Undergraduate	Bachelor of Natural Science (Environmental Management)							
+Western Sydney University	School of Science and Health	Undergraduate	Bachelor of Occupational Therapy							
+Western Sydney University	School of Science and Health	Undergraduate	Bachelor of Physiotherapy							
+Western Sydney University	School of Science and Health	Undergraduate	Bachelor of Podiatric Medicine							
+Western Sydney University	School of Science and Health	Undergraduate	Bachelor of Science							
+Western Sydney University	School of Science and Health	Undergraduate	Bachelor of Science (Advanced Science)							
+Western Sydney University	School of Science and Health	Undergraduate	Bachelor of Science (Biological Sciences)							
+Western Sydney University	School of Science and Health	Undergraduate	Bachelor of Science (Chemistry)							
+Western Sydney University	School of Science and Health	Undergraduate	Bachelor of Science (Environmental Science)							
+Western Sydney University	School of Science and Health	Undergraduate	Bachelor of Science (Forensic Science)							
+Western Sydney University	School of Science and Health	Undergraduate	Bachelor of Science (Mathematical Science)							
+Western Sydney University	School of Science and Health	Undergraduate	Bachelor of Science (Nutrition and Food Sciences)							
+Western Sydney University	School of Science and Health	Undergraduate	Bachelor of Science (Zoology)							
+Western Sydney University	School of Science and Health	Undergraduate	Bachelor of Science -Pathway to Teaching (Primary/Secondary)							
+Western Sydney University	School of Science and Health	Undergraduate	Bachelor of Science / Bachelor of Arts							
+Western Sydney University	School of Science and Health	Undergraduate	Bachelor of Science / Bachelor of International Studies							
+Western Sydney University	School of Science and Health	Undergraduate	Bachelor of Science / Bachelor of Business							
+Western Sydney University	School of Science and Health	Undergraduate	Bachelor of Science / Bachelor of Laws							
+Western Sydney University	School of Science and Health	Undergraduate	Bachelor of Sustainable Agriculture and Food Security							
+Western Sydney University	School of Science and Health	Undergraduate	Bachelor of Traditional Chinese Medicine							
+Western Sydney University	School of Science and Health	Postgraduate	Graduate Certificate in Aged Care Management							
+Western Sydney University	School of Science and Health	Postgraduate	Graduate Certificate in Applied Clinical Health Research							
+Western Sydney University	School of Science and Health	Postgraduate	Graduate Certificate in Forensic Science							
+Western Sydney University	School of Science and Health	Postgraduate	Graduate Certificate in Health Science							
+Western Sydney University	School of Science and Health	Postgraduate	Graduate Certificate in Public Health							
+Western Sydney University	School of Science and Health	Postgraduate	Graduate Diploma in Aged Care Management							
+Western Sydney University	School of Science and Health	Postgraduate	Graduate Diploma in Forensic Science							
+Western Sydney University	School of Science and Health	Postgraduate	Graduate Diploma in Health Science							
+Western Sydney University	School of Science and Health	Postgraduate	Graduate Diploma in Public Health							
+Western Sydney University	School of Science and Health	Postgraduate	Master of Chinese Medicine							
+Western Sydney University	School of Science and Health	Postgraduate	Master of Forensic Science							
+Western Sydney University	School of Science and Health	Postgraduate	Master of Health Science							
+Western Sydney University	School of Science and Health	Postgraduate	Master of Primary Health Care							
+Western Sydney University	School of Science and Health	Postgraduate	Master of Public Health							
+Western Sydney University	School of Science and Health	Postgraduate	Master of Science							
+Western Sydney University	School of Science and Health	Higher Degree Research	Master of Research							
+Western Sydney University	School of Science and Health	Higher Degree Research	Master of Philosophy							
+Western Sydney University	School of Science and Health	Higher Degree Research	Doctor of Philosophy (PhD)							
+Western Sydney University	School of Science and Health	Higher Degree Research	Professional Doctorates							
+										

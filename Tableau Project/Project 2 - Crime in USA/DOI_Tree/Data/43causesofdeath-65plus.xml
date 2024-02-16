@@ -1,0 +1,2518 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE tree SYSTEM "data/treeml.dtd">
+<tree>
+<declarations>
+<attributeDecl name="name" type="String"/>
+<attributeDecl name="type" type="Integer"/>
+<attributeDecl name="link" type="String"/>
+<attributeDecl name="flag" type="Integer"/>
+<attributeDecl name="weight" type="Double"/>
+</declarations>
+
+<branch id="0">
+	<attribute name="name" value="Cause of, death"/>
+	<attribute name="type" value="0"/>
+	<attribute name="link" value=""/>
+	<attribute name="flag" value="0"/>
+	<attribute name="weight" value="0.0"/>
+	<branch id="1">
+		<attribute name="name" value="1981 Deaths, per 100,000"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="2">
+			<attribute name="name" value="1998 Deaths, per 100,000"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="3">
+				<attribute name="name" value="1998-1981 rate, change "/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="4">
+					<attribute name="name" value="(% change, since 81)"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<leaf id="Cause of Death Codes">
+						<attribute name="name" value="Cause of Death Codes"/>
+						<attribute name="type" value="2"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+					</leaf>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="7">
+		<attribute name="name" value="FLOAT"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="8">
+			<attribute name="name" value="FLOAT"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="9">
+				<attribute name="name" value="FLOAT"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="10">
+					<attribute name="name" value="FLOAT"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<leaf id="STRING">
+						<attribute name="name" value="STRING"/>
+						<attribute name="type" value="2"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+					</leaf>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="13">
+		<attribute name="name" value="28.4"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="14">
+			<attribute name="name" value="55.3"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="15">
+				<attribute name="name" value="26.9"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="16">
+					<attribute name="name" value="94.71830986"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<branch id="17">
+						<attribute name="name" value="38"/>
+						<attribute name="type" value="1"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+						<branch id="18">
+							<attribute name="name" value=" Deaths_per_100,000_Age_65+(crude)"/>
+							<attribute name="type" value="1"/>
+							<attribute name="link" value=""/>
+							<attribute name="flag" value="0"/>
+							<attribute name="weight" value="0.0"/>
+							<branch id="19">
+								<attribute name="name" value="Infectious and parasitic diseases"/>
+								<attribute name="type" value="1"/>
+								<attribute name="link" value=""/>
+								<attribute name="flag" value="0"/>
+								<attribute name="weight" value="0.0"/>
+								<leaf id="Septicemia">
+									<attribute name="name" value="Septicemia"/>
+									<attribute name="type" value="2"/>
+									<attribute name="link" value=""/>
+									<attribute name="flag" value="0"/>
+									<attribute name="weight" value="0.0"/>
+								</leaf>
+							</branch>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="22">
+		<attribute name="name" value="14.4"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="23">
+			<attribute name="name" value="20.6"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="24">
+				<attribute name="name" value="6.2"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="25">
+					<attribute name="name" value="43.05555556"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<branch id="26">
+						<attribute name="name" value="diff"/>
+						<attribute name="type" value="1"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+						<branch id="27">
+							<attribute name="name" value=" Deaths_per_100,000_Age_65+(crude)"/>
+							<attribute name="type" value="1"/>
+							<attribute name="link" value=""/>
+							<attribute name="flag" value="0"/>
+							<attribute name="weight" value="0.0"/>
+							<branch id="28">
+								<attribute name="name" value="Infectious and parasitic diseases"/>
+								<attribute name="type" value="1"/>
+								<attribute name="link" value=""/>
+								<attribute name="flag" value="0"/>
+								<attribute name="weight" value="0.0"/>
+								<leaf id="Other Infectious and parasitic diseases">
+									<attribute name="name" value="Other Infectious and parasitic diseases"/>
+									<attribute name="type" value="2"/>
+									<attribute name="link" value=""/>
+									<attribute name="flag" value="0"/>
+									<attribute name="weight" value="0.0"/>
+								</leaf>
+							</branch>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="31">
+		<attribute name="name" value="17.3"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="32">
+			<attribute name="name" value="13.9"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="33">
+				<attribute name="name" value="-3.4"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="34">
+					<attribute name="name" value="-19.65317919"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<branch id="35">
+						<attribute name="name" value="140-149"/>
+						<attribute name="type" value="1"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+						<branch id="36">
+							<attribute name="name" value=" Deaths_per_100,000_Age_65+(crude)"/>
+							<attribute name="type" value="1"/>
+							<attribute name="link" value=""/>
+							<attribute name="flag" value="0"/>
+							<attribute name="weight" value="0.0"/>
+							<branch id="37">
+								<attribute name="name" value="Malignant neoplasms"/>
+								<attribute name="type" value="1"/>
+								<attribute name="link" value=""/>
+								<attribute name="flag" value="0"/>
+								<attribute name="weight" value="0.0"/>
+								<leaf id="  - of lip, oral, pharynx">
+									<attribute name="name" value="  - of lip, oral, pharynx"/>
+									<attribute name="type" value="2"/>
+									<attribute name="link" value=""/>
+									<attribute name="flag" value="0"/>
+									<attribute name="weight" value="0.0"/>
+								</leaf>
+							</branch>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="40">
+		<attribute name="name" value="298.6"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="41">
+			<attribute name="name" value="276.1"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="42">
+				<attribute name="name" value="-22.5"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="43">
+					<attribute name="name" value="-7.535164099"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<branch id="44">
+						<attribute name="name" value="150-159"/>
+						<attribute name="type" value="1"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+						<branch id="45">
+							<attribute name="name" value=" Deaths_per_100,000_Age_65+(crude)"/>
+							<attribute name="type" value="1"/>
+							<attribute name="link" value=""/>
+							<attribute name="flag" value="0"/>
+							<attribute name="weight" value="0.0"/>
+							<branch id="46">
+								<attribute name="name" value="Malignant neoplasms"/>
+								<attribute name="type" value="1"/>
+								<attribute name="link" value=""/>
+								<attribute name="flag" value="0"/>
+								<attribute name="weight" value="0.0"/>
+								<leaf id="- of digestive organs">
+									<attribute name="name" value="- of digestive organs"/>
+									<attribute name="type" value="2"/>
+									<attribute name="link" value=""/>
+									<attribute name="flag" value="0"/>
+									<attribute name="weight" value="0.0"/>
+								</leaf>
+							</branch>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="49">
+		<attribute name="name" value="242.3"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="50">
+			<attribute name="name" value="330.1"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="51">
+				<attribute name="name" value="87.8"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="52">
+					<attribute name="name" value="36.23607099"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<branch id="53">
+						<attribute name="name" value="160-165"/>
+						<attribute name="type" value="1"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+						<branch id="54">
+							<attribute name="name" value=" Deaths_per_100,000_Age_65+(crude)"/>
+							<attribute name="type" value="1"/>
+							<attribute name="link" value=""/>
+							<attribute name="flag" value="0"/>
+							<attribute name="weight" value="0.0"/>
+							<branch id="55">
+								<attribute name="name" value="Malignant neoplasms"/>
+								<attribute name="type" value="1"/>
+								<attribute name="link" value=""/>
+								<attribute name="flag" value="0"/>
+								<attribute name="weight" value="0.0"/>
+								<leaf id="- of respiratory organs">
+									<attribute name="name" value="- of respiratory organs"/>
+									<attribute name="type" value="2"/>
+									<attribute name="link" value=""/>
+									<attribute name="flag" value="0"/>
+									<attribute name="weight" value="0.0"/>
+								</leaf>
+							</branch>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="58">
+		<attribute name="name" value="72.4"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="59">
+			<attribute name="name" value="71.9"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="60">
+				<attribute name="name" value="-0.5"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="61">
+					<attribute name="name" value="-0.690607735"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<branch id="62">
+						<attribute name="name" value="174-175"/>
+						<attribute name="type" value="1"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+						<branch id="63">
+							<attribute name="name" value=" Deaths_per_100,000_Age_65+(crude)"/>
+							<attribute name="type" value="1"/>
+							<attribute name="link" value=""/>
+							<attribute name="flag" value="0"/>
+							<attribute name="weight" value="0.0"/>
+							<branch id="64">
+								<attribute name="name" value="Malignant neoplasms"/>
+								<attribute name="type" value="1"/>
+								<attribute name="link" value=""/>
+								<attribute name="flag" value="0"/>
+								<attribute name="weight" value="0.0"/>
+								<leaf id="- of breast">
+									<attribute name="name" value="- of breast"/>
+									<attribute name="type" value="2"/>
+									<attribute name="link" value=""/>
+									<attribute name="flag" value="0"/>
+									<attribute name="weight" value="0.0"/>
+								</leaf>
+							</branch>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="67">
+		<attribute name="name" value="129.3"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="68">
+			<attribute name="name" value="135.1"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="69">
+				<attribute name="name" value="5.8"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="70">
+					<attribute name="name" value="4.485692189"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<branch id="71">
+						<attribute name="name" value="179-187"/>
+						<attribute name="type" value="1"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+						<branch id="72">
+							<attribute name="name" value=" Deaths_per_100,000_Age_65+(crude)"/>
+							<attribute name="type" value="1"/>
+							<attribute name="link" value=""/>
+							<attribute name="flag" value="0"/>
+							<attribute name="weight" value="0.0"/>
+							<branch id="73">
+								<attribute name="name" value="Malignant neoplasms"/>
+								<attribute name="type" value="1"/>
+								<attribute name="link" value=""/>
+								<attribute name="flag" value="0"/>
+								<attribute name="weight" value="0.0"/>
+								<leaf id="- of genital organs">
+									<attribute name="name" value="- of genital organs"/>
+									<attribute name="type" value="2"/>
+									<attribute name="link" value=""/>
+									<attribute name="flag" value="0"/>
+									<attribute name="weight" value="0.0"/>
+								</leaf>
+							</branch>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="76">
+		<attribute name="name" value="49.7"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="77">
+			<attribute name="name" value="52.6"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="78">
+				<attribute name="name" value="2.9"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="79">
+					<attribute name="name" value="5.83501006"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<branch id="80">
+						<attribute name="name" value="188-189"/>
+						<attribute name="type" value="1"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+						<branch id="81">
+							<attribute name="name" value=" Deaths_per_100,000_Age_65+(crude)"/>
+							<attribute name="type" value="1"/>
+							<attribute name="link" value=""/>
+							<attribute name="flag" value="0"/>
+							<attribute name="weight" value="0.0"/>
+							<branch id="82">
+								<attribute name="name" value="Malignant neoplasms"/>
+								<attribute name="type" value="1"/>
+								<attribute name="link" value=""/>
+								<attribute name="flag" value="0"/>
+								<attribute name="weight" value="0.0"/>
+								<leaf id="- of urinary organs">
+									<attribute name="name" value="- of urinary organs"/>
+									<attribute name="type" value="2"/>
+									<attribute name="link" value=""/>
+									<attribute name="flag" value="0"/>
+									<attribute name="weight" value="0.0"/>
+								</leaf>
+							</branch>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="85">
+		<attribute name="name" value="88.1"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="86">
+			<attribute name="name" value="115.3"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="87">
+				<attribute name="name" value="27.2"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="88">
+					<attribute name="name" value="30.87400681"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<branch id="89">
+						<attribute name="name" value="200-208"/>
+						<attribute name="type" value="1"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+						<branch id="90">
+							<attribute name="name" value=" Deaths_per_100,000_Age_65+(crude)"/>
+							<attribute name="type" value="1"/>
+							<attribute name="link" value=""/>
+							<attribute name="flag" value="0"/>
+							<attribute name="weight" value="0.0"/>
+							<branch id="91">
+								<attribute name="name" value="Malignant neoplasms"/>
+								<attribute name="type" value="1"/>
+								<attribute name="link" value=""/>
+								<attribute name="flag" value="0"/>
+								<attribute name="weight" value="0.0"/>
+								<leaf id="- of lymph./hemotopoietic tissues">
+									<attribute name="name" value="- of lymph./hemotopoietic tissues"/>
+									<attribute name="type" value="2"/>
+									<attribute name="link" value=""/>
+									<attribute name="flag" value="0"/>
+									<attribute name="weight" value="0.0"/>
+								</leaf>
+							</branch>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="94">
+		<attribute name="name" value="37.5"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="95">
+			<attribute name="name" value="41.6"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="96">
+				<attribute name="name" value="4.1"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="97">
+					<attribute name="name" value="10.93333333"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<branch id="98">
+						<attribute name="name" value="204-208"/>
+						<attribute name="type" value="1"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+						<branch id="99">
+							<attribute name="name" value=" Deaths_per_100,000_Age_65+(crude)"/>
+							<attribute name="type" value="1"/>
+							<attribute name="link" value=""/>
+							<attribute name="flag" value="0"/>
+							<attribute name="weight" value="0.0"/>
+							<branch id="100">
+								<attribute name="name" value="Malignant neoplasms"/>
+								<attribute name="type" value="1"/>
+								<attribute name="link" value=""/>
+								<attribute name="flag" value="0"/>
+								<attribute name="weight" value="0.0"/>
+								<leaf id="Leukemia">
+									<attribute name="name" value="Leukemia"/>
+									<attribute name="type" value="2"/>
+									<attribute name="link" value=""/>
+									<attribute name="flag" value="0"/>
+									<attribute name="weight" value="0.0"/>
+								</leaf>
+							</branch>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="103">
+		<attribute name="name" value="74.5"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="104">
+			<attribute name="name" value="80.2"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="105">
+				<attribute name="name" value="5.7"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="106">
+					<attribute name="name" value="7.651006711"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<branch id="107">
+						<attribute name="name" value="diff"/>
+						<attribute name="type" value="1"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+						<branch id="108">
+							<attribute name="name" value=" Deaths_per_100,000_Age_65+(crude)"/>
+							<attribute name="type" value="1"/>
+							<attribute name="link" value=""/>
+							<attribute name="flag" value="0"/>
+							<attribute name="weight" value="0.0"/>
+							<branch id="109">
+								<attribute name="name" value="Malignant neoplasms"/>
+								<attribute name="type" value="1"/>
+								<attribute name="link" value=""/>
+								<attribute name="flag" value="0"/>
+								<attribute name="weight" value="0.0"/>
+								<leaf id="Other malignant neoplasms">
+									<attribute name="name" value="Other malignant neoplasms"/>
+									<attribute name="type" value="2"/>
+									<attribute name="link" value=""/>
+									<attribute name="flag" value="0"/>
+									<attribute name="weight" value="0.0"/>
+								</leaf>
+							</branch>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="112">
+		<attribute name="name" value="15.3"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="113">
+			<attribute name="name" value="16.9"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="114">
+				<attribute name="name" value="1.6"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="115">
+					<attribute name="name" value="10.45751634"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<branch id="116">
+						<attribute name="name" value="210-239"/>
+						<attribute name="type" value="1"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+						<branch id="117">
+							<attribute name="name" value=" Deaths_per_100,000_Age_65+(crude)"/>
+							<attribute name="type" value="1"/>
+							<attribute name="link" value=""/>
+							<attribute name="flag" value="0"/>
+							<attribute name="weight" value="0.0"/>
+							<leaf id="Benign neoplasms">
+								<attribute name="name" value="Benign neoplasms"/>
+								<attribute name="type" value="2"/>
+								<attribute name="link" value=""/>
+								<attribute name="flag" value="0"/>
+								<attribute name="weight" value="0.0"/>
+							</leaf>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="120">
+		<attribute name="name" value="97.1"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="121">
+			<attribute name="name" value="142.4"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="122">
+				<attribute name="name" value="45.3"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="123">
+					<attribute name="name" value="46.65293512"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<branch id="124">
+						<attribute name="name" value="250"/>
+						<attribute name="type" value="1"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+						<branch id="125">
+							<attribute name="name" value=" Deaths_per_100,000_Age_65+(crude)"/>
+							<attribute name="type" value="1"/>
+							<attribute name="link" value=""/>
+							<attribute name="flag" value="0"/>
+							<attribute name="weight" value="0.0"/>
+							<leaf id="Diabetes mellitus">
+								<attribute name="name" value="Diabetes mellitus"/>
+								<attribute name="type" value="2"/>
+								<attribute name="link" value=""/>
+								<attribute name="flag" value="0"/>
+								<attribute name="weight" value="0.0"/>
+							</leaf>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="128">
+		<attribute name="name" value="7.7"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="129">
+			<attribute name="name" value="11.1"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="130">
+				<attribute name="name" value="3.4"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="131">
+					<attribute name="name" value="44.15584416"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<branch id="132">
+						<attribute name="name" value="260-269"/>
+						<attribute name="type" value="1"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+						<branch id="133">
+							<attribute name="name" value=" Deaths_per_100,000_Age_65+(crude)"/>
+							<attribute name="type" value="1"/>
+							<attribute name="link" value=""/>
+							<attribute name="flag" value="0"/>
+							<attribute name="weight" value="0.0"/>
+							<leaf id="Nutritional deficiencies">
+								<attribute name="name" value="Nutritional deficiencies"/>
+								<attribute name="type" value="2"/>
+								<attribute name="link" value=""/>
+								<attribute name="flag" value="0"/>
+								<attribute name="weight" value="0.0"/>
+							</leaf>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="136">
+		<attribute name="name" value="8.9"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="137">
+			<attribute name="name" value="10.3"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="138">
+				<attribute name="name" value="1.4"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="139">
+					<attribute name="name" value="15.73033708"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<branch id="140">
+						<attribute name="name" value="280-285"/>
+						<attribute name="type" value="1"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+						<branch id="141">
+							<attribute name="name" value=" Deaths_per_100,000_Age_65+(crude)"/>
+							<attribute name="type" value="1"/>
+							<attribute name="link" value=""/>
+							<attribute name="flag" value="0"/>
+							<attribute name="weight" value="0.0"/>
+							<leaf id="Anemia">
+								<attribute name="name" value="Anemia"/>
+								<attribute name="type" value="2"/>
+								<attribute name="link" value=""/>
+								<attribute name="flag" value="0"/>
+								<attribute name="weight" value="0.0"/>
+							</leaf>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="144">
+		<attribute name="name" value="5.5"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="145">
+			<attribute name="name" value="65.2"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="146">
+				<attribute name="name" value="59.7"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="147">
+					<attribute name="name" value="1085.454545"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<branch id="148">
+						<attribute name="name" value="331"/>
+						<attribute name="type" value="1"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+						<branch id="149">
+							<attribute name="name" value=" Deaths_per_100,000_Age_65+(crude)"/>
+							<attribute name="type" value="1"/>
+							<attribute name="link" value=""/>
+							<attribute name="flag" value="0"/>
+							<attribute name="weight" value="0.0"/>
+							<leaf id="Alzheimer&apos;s disease">
+								<attribute name="name" value="Alzheimer&apos;s disease"/>
+								<attribute name="type" value="2"/>
+								<attribute name="link" value=""/>
+								<attribute name="flag" value="0"/>
+								<attribute name="weight" value="0.0"/>
+							</leaf>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="152">
+		<attribute name="name" value="23.6"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="153">
+			<attribute name="name" value="35.7"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="154">
+				<attribute name="name" value="12.1"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="155">
+					<attribute name="name" value="51.27118644"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<branch id="156">
+						<attribute name="name" value="401, 403"/>
+						<attribute name="type" value="1"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+						<branch id="157">
+							<attribute name="name" value=" Deaths_per_100,000_Age_65+(crude)"/>
+							<attribute name="type" value="1"/>
+							<attribute name="link" value=""/>
+							<attribute name="flag" value="0"/>
+							<attribute name="weight" value="0.0"/>
+							<branch id="158">
+								<attribute name="name" value="Cardiovascular diseases"/>
+								<attribute name="type" value="1"/>
+								<attribute name="link" value=""/>
+								<attribute name="flag" value="0"/>
+								<attribute name="weight" value="0.0"/>
+								<leaf id="Hypertension">
+									<attribute name="name" value="Hypertension"/>
+									<attribute name="type" value="2"/>
+									<attribute name="link" value=""/>
+									<attribute name="flag" value="0"/>
+									<attribute name="weight" value="0.0"/>
+								</leaf>
+							</branch>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="161">
+		<attribute name="name" value="17.8"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="162">
+			<attribute name="name" value="10.5"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="163">
+				<attribute name="name" value="-7.3"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="164">
+					<attribute name="name" value="-41.01123596"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<branch id="165">
+						<attribute name="name" value="390-398"/>
+						<attribute name="type" value="1"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+						<branch id="166">
+							<attribute name="name" value=" Deaths_per_100,000_Age_65+(crude)"/>
+							<attribute name="type" value="1"/>
+							<attribute name="link" value=""/>
+							<attribute name="flag" value="0"/>
+							<attribute name="weight" value="0.0"/>
+							<branch id="167">
+								<attribute name="name" value="Cardiovascular diseases"/>
+								<attribute name="type" value="1"/>
+								<attribute name="link" value=""/>
+								<attribute name="flag" value="0"/>
+								<attribute name="weight" value="0.0"/>
+								<branch id="168">
+									<attribute name="name" value="Diseases of the heart"/>
+									<attribute name="type" value="1"/>
+									<attribute name="link" value=""/>
+									<attribute name="flag" value="0"/>
+									<attribute name="weight" value="0.0"/>
+									<leaf id="Rheumatic">
+										<attribute name="name" value="Rheumatic"/>
+										<attribute name="type" value="2"/>
+										<attribute name="link" value=""/>
+										<attribute name="flag" value="0"/>
+										<attribute name="weight" value="0.0"/>
+									</leaf>
+								</branch>
+							</branch>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="171">
+		<attribute name="name" value="57"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="172">
+			<attribute name="name" value="60.4"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="173">
+				<attribute name="name" value="3.4"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="174">
+					<attribute name="name" value="5.964912281"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<branch id="175">
+						<attribute name="name" value="402"/>
+						<attribute name="type" value="1"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+						<branch id="176">
+							<attribute name="name" value=" Deaths_per_100,000_Age_65+(crude)"/>
+							<attribute name="type" value="1"/>
+							<attribute name="link" value=""/>
+							<attribute name="flag" value="0"/>
+							<attribute name="weight" value="0.0"/>
+							<branch id="177">
+								<attribute name="name" value="Cardiovascular diseases"/>
+								<attribute name="type" value="1"/>
+								<attribute name="link" value=""/>
+								<attribute name="flag" value="0"/>
+								<attribute name="weight" value="0.0"/>
+								<branch id="178">
+									<attribute name="name" value="Diseases of the heart"/>
+									<attribute name="type" value="1"/>
+									<attribute name="link" value=""/>
+									<attribute name="flag" value="0"/>
+									<attribute name="weight" value="0.0"/>
+									<leaf id="Hypertensive heart disease">
+										<attribute name="name" value="Hypertensive heart disease"/>
+										<attribute name="type" value="2"/>
+										<attribute name="link" value=""/>
+										<attribute name="flag" value="0"/>
+										<attribute name="weight" value="0.0"/>
+									</leaf>
+								</branch>
+							</branch>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="181">
+		<attribute name="name" value="11.4"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="182">
+			<attribute name="name" value="6"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="183">
+				<attribute name="name" value="-5.4"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="184">
+					<attribute name="name" value="-47.36842105"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<branch id="185">
+						<attribute name="name" value="404"/>
+						<attribute name="type" value="1"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+						<branch id="186">
+							<attribute name="name" value=" Deaths_per_100,000_Age_65+(crude)"/>
+							<attribute name="type" value="1"/>
+							<attribute name="link" value=""/>
+							<attribute name="flag" value="0"/>
+							<attribute name="weight" value="0.0"/>
+							<branch id="187">
+								<attribute name="name" value="Cardiovascular diseases"/>
+								<attribute name="type" value="1"/>
+								<attribute name="link" value=""/>
+								<attribute name="flag" value="0"/>
+								<attribute name="weight" value="0.0"/>
+								<branch id="188">
+									<attribute name="name" value="Diseases of the heart"/>
+									<attribute name="type" value="1"/>
+									<attribute name="link" value=""/>
+									<attribute name="flag" value="0"/>
+									<attribute name="weight" value="0.0"/>
+									<leaf id="Hypertensive heart &amp; renal dis.">
+										<attribute name="name" value="Hypertensive heart &amp; renal dis."/>
+										<attribute name="type" value="2"/>
+										<attribute name="link" value=""/>
+										<attribute name="flag" value="0"/>
+										<attribute name="weight" value="0.0"/>
+									</leaf>
+								</branch>
+							</branch>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="191">
+		<attribute name="name" value="824.8"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="192">
+			<attribute name="name" value="482.7"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="193">
+				<attribute name="name" value="-342.1"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="194">
+					<attribute name="name" value="-41.47672163"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<branch id="195">
+						<attribute name="name" value="410"/>
+						<attribute name="type" value="1"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+						<branch id="196">
+							<attribute name="name" value=" Deaths_per_100,000_Age_65+(crude)"/>
+							<attribute name="type" value="1"/>
+							<attribute name="link" value=""/>
+							<attribute name="flag" value="0"/>
+							<attribute name="weight" value="0.0"/>
+							<branch id="197">
+								<attribute name="name" value="Cardiovascular diseases"/>
+								<attribute name="type" value="1"/>
+								<attribute name="link" value=""/>
+								<attribute name="flag" value="0"/>
+								<attribute name="weight" value="0.0"/>
+								<branch id="198">
+									<attribute name="name" value="Diseases of the heart"/>
+									<attribute name="type" value="1"/>
+									<attribute name="link" value=""/>
+									<attribute name="flag" value="0"/>
+									<attribute name="weight" value="0.0"/>
+									<branch id="199">
+										<attribute name="name" value="Ischemic heart disease"/>
+										<attribute name="type" value="1"/>
+										<attribute name="link" value=""/>
+										<attribute name="flag" value="0"/>
+										<attribute name="weight" value="0.0"/>
+										<leaf id="Acute myocardial infarction">
+											<attribute name="name" value="Acute myocardial infarction"/>
+											<attribute name="type" value="2"/>
+											<attribute name="link" value=""/>
+											<attribute name="flag" value="0"/>
+											<attribute name="weight" value="0.0"/>
+										</leaf>
+									</branch>
+								</branch>
+							</branch>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="202">
+		<attribute name="name" value="834.6"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="203">
+			<attribute name="name" value="646.2"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="204">
+				<attribute name="name" value="-188.4"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="205">
+					<attribute name="name" value="-22.57368799"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<branch id="206">
+						<attribute name="name" value="412, 414"/>
+						<attribute name="type" value="1"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+						<branch id="207">
+							<attribute name="name" value=" Deaths_per_100,000_Age_65+(crude)"/>
+							<attribute name="type" value="1"/>
+							<attribute name="link" value=""/>
+							<attribute name="flag" value="0"/>
+							<attribute name="weight" value="0.0"/>
+							<branch id="208">
+								<attribute name="name" value="Cardiovascular diseases"/>
+								<attribute name="type" value="1"/>
+								<attribute name="link" value=""/>
+								<attribute name="flag" value="0"/>
+								<attribute name="weight" value="0.0"/>
+								<branch id="209">
+									<attribute name="name" value="Diseases of the heart"/>
+									<attribute name="type" value="1"/>
+									<attribute name="link" value=""/>
+									<attribute name="flag" value="0"/>
+									<attribute name="weight" value="0.0"/>
+									<branch id="210">
+										<attribute name="name" value="Ischemic heart disease"/>
+										<attribute name="type" value="1"/>
+										<attribute name="link" value=""/>
+										<attribute name="flag" value="0"/>
+										<attribute name="weight" value="0.0"/>
+										<leaf id="Old myocardial infarction">
+											<attribute name="name" value="Old myocardial infarction"/>
+											<attribute name="type" value="2"/>
+											<attribute name="link" value=""/>
+											<attribute name="flag" value="0"/>
+											<attribute name="weight" value="0.0"/>
+										</leaf>
+									</branch>
+								</branch>
+							</branch>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="213">
+		<attribute name="name" value="13"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="214">
+			<attribute name="name" value="7.9"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="215">
+				<attribute name="name" value="-5.1"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="216">
+					<attribute name="name" value="-39.23076923"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<branch id="217">
+						<attribute name="name" value="diff"/>
+						<attribute name="type" value="1"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+						<branch id="218">
+							<attribute name="name" value=" Deaths_per_100,000_Age_65+(crude)"/>
+							<attribute name="type" value="1"/>
+							<attribute name="link" value=""/>
+							<attribute name="flag" value="0"/>
+							<attribute name="weight" value="0.0"/>
+							<branch id="219">
+								<attribute name="name" value="Cardiovascular diseases"/>
+								<attribute name="type" value="1"/>
+								<attribute name="link" value=""/>
+								<attribute name="flag" value="0"/>
+								<attribute name="weight" value="0.0"/>
+								<branch id="220">
+									<attribute name="name" value="Diseases of the heart"/>
+									<attribute name="type" value="1"/>
+									<attribute name="link" value=""/>
+									<attribute name="flag" value="0"/>
+									<attribute name="weight" value="0.0"/>
+									<branch id="221">
+										<attribute name="name" value="Ischemic heart disease"/>
+										<attribute name="type" value="1"/>
+										<attribute name="link" value=""/>
+										<attribute name="flag" value="0"/>
+										<attribute name="weight" value="0.0"/>
+										<leaf id="Other Ischemic heart disease">
+											<attribute name="name" value="Other Ischemic heart disease"/>
+											<attribute name="type" value="2"/>
+											<attribute name="link" value=""/>
+											<attribute name="flag" value="0"/>
+											<attribute name="weight" value="0.0"/>
+										</leaf>
+									</branch>
+								</branch>
+							</branch>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="224">
+		<attribute name="name" value="505.4"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="225">
+			<attribute name="name" value="552.9"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="226">
+				<attribute name="name" value="47.5"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="227">
+					<attribute name="name" value="9.398496241"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<branch id="228">
+						<attribute name="name" value="diff"/>
+						<attribute name="type" value="1"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+						<branch id="229">
+							<attribute name="name" value=" Deaths_per_100,000_Age_65+(crude)"/>
+							<attribute name="type" value="1"/>
+							<attribute name="link" value=""/>
+							<attribute name="flag" value="0"/>
+							<attribute name="weight" value="0.0"/>
+							<branch id="230">
+								<attribute name="name" value="Cardiovascular diseases"/>
+								<attribute name="type" value="1"/>
+								<attribute name="link" value=""/>
+								<attribute name="flag" value="0"/>
+								<attribute name="weight" value="0.0"/>
+								<branch id="231">
+									<attribute name="name" value="Diseases of the heart"/>
+									<attribute name="type" value="1"/>
+									<attribute name="link" value=""/>
+									<attribute name="flag" value="0"/>
+									<attribute name="weight" value="0.0"/>
+									<leaf id="other diseases of the heart">
+										<attribute name="name" value="other diseases of the heart"/>
+										<attribute name="type" value="2"/>
+										<attribute name="link" value=""/>
+										<attribute name="flag" value="0"/>
+										<attribute name="weight" value="0.0"/>
+									</leaf>
+								</branch>
+							</branch>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="234">
+		<attribute name="name" value="50.6"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="235">
+			<attribute name="name" value="56.5"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="236">
+				<attribute name="name" value="5.9"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="237">
+					<attribute name="name" value="11.66007905"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<branch id="238">
+						<attribute name="name" value="431-432"/>
+						<attribute name="type" value="1"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+						<branch id="239">
+							<attribute name="name" value=" Deaths_per_100,000_Age_65+(crude)"/>
+							<attribute name="type" value="1"/>
+							<attribute name="link" value=""/>
+							<attribute name="flag" value="0"/>
+							<attribute name="weight" value="0.0"/>
+							<branch id="240">
+								<attribute name="name" value="Cardiovascular diseases"/>
+								<attribute name="type" value="1"/>
+								<attribute name="link" value=""/>
+								<attribute name="flag" value="0"/>
+								<attribute name="weight" value="0.0"/>
+								<branch id="241">
+									<attribute name="name" value="Cerebrovascular disease"/>
+									<attribute name="type" value="1"/>
+									<attribute name="link" value=""/>
+									<attribute name="flag" value="0"/>
+									<attribute name="weight" value="0.0"/>
+									<leaf id="Intra cerebr./cranial hemorrhage">
+										<attribute name="name" value="Intra cerebr./cranial hemorrhage"/>
+										<attribute name="type" value="2"/>
+										<attribute name="link" value=""/>
+										<attribute name="flag" value="0"/>
+										<attribute name="weight" value="0.0"/>
+									</leaf>
+								</branch>
+							</branch>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="244">
+		<attribute name="name" value="107.7"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="245">
+			<attribute name="name" value="28.6"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="246">
+				<attribute name="name" value="-79.1"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="247">
+					<attribute name="name" value="-73.44475395"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<branch id="248">
+						<attribute name="name" value="434.0, 434.9"/>
+						<attribute name="type" value="1"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+						<branch id="249">
+							<attribute name="name" value=" Deaths_per_100,000_Age_65+(crude)"/>
+							<attribute name="type" value="1"/>
+							<attribute name="link" value=""/>
+							<attribute name="flag" value="0"/>
+							<attribute name="weight" value="0.0"/>
+							<branch id="250">
+								<attribute name="name" value="Cardiovascular diseases"/>
+								<attribute name="type" value="1"/>
+								<attribute name="link" value=""/>
+								<attribute name="flag" value="0"/>
+								<attribute name="weight" value="0.0"/>
+								<branch id="251">
+									<attribute name="name" value="Cerebrovascular disease"/>
+									<attribute name="type" value="1"/>
+									<attribute name="link" value=""/>
+									<attribute name="flag" value="0"/>
+									<attribute name="weight" value="0.0"/>
+									<leaf id="Cerebral thromb./unspec. occl. of arteries">
+										<attribute name="name" value="Cerebral thromb./unspec. occl. of arteries"/>
+										<attribute name="type" value="2"/>
+										<attribute name="link" value=""/>
+										<attribute name="flag" value="0"/>
+										<attribute name="weight" value="0.0"/>
+									</leaf>
+								</branch>
+							</branch>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="254">
+		<attribute name="name" value="374.4"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="255">
+			<attribute name="name" value="317.9"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="256">
+				<attribute name="name" value="-56.5"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="257">
+					<attribute name="name" value="-15.09081197"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<branch id="258">
+						<attribute name="name" value="430, 433, 435-438"/>
+						<attribute name="type" value="1"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+						<branch id="259">
+							<attribute name="name" value=" Deaths_per_100,000_Age_65+(crude)"/>
+							<attribute name="type" value="1"/>
+							<attribute name="link" value=""/>
+							<attribute name="flag" value="0"/>
+							<attribute name="weight" value="0.0"/>
+							<branch id="260">
+								<attribute name="name" value="Cardiovascular diseases"/>
+								<attribute name="type" value="1"/>
+								<attribute name="link" value=""/>
+								<attribute name="flag" value="0"/>
+								<attribute name="weight" value="0.0"/>
+								<branch id="261">
+									<attribute name="name" value="Cerebrovascular disease"/>
+									<attribute name="type" value="1"/>
+									<attribute name="link" value=""/>
+									<attribute name="flag" value="0"/>
+									<attribute name="weight" value="0.0"/>
+									<leaf id="Other/late effects of cerebrovascular dis.">
+										<attribute name="name" value="Other/late effects of cerebrovascular dis."/>
+										<attribute name="type" value="2"/>
+										<attribute name="link" value=""/>
+										<attribute name="flag" value="0"/>
+										<attribute name="weight" value="0.0"/>
+									</leaf>
+								</branch>
+							</branch>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="264">
+		<attribute name="name" value="2.5"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="265">
+			<attribute name="name" value="1.5"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="266">
+				<attribute name="name" value="-1"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="267">
+					<attribute name="name" value="-40"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<branch id="268">
+						<attribute name="name" value="diff"/>
+						<attribute name="type" value="1"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+						<branch id="269">
+							<attribute name="name" value=" Deaths_per_100,000_Age_65+(crude)"/>
+							<attribute name="type" value="1"/>
+							<attribute name="link" value=""/>
+							<attribute name="flag" value="0"/>
+							<attribute name="weight" value="0.0"/>
+							<branch id="270">
+								<attribute name="name" value="Cardiovascular diseases"/>
+								<attribute name="type" value="1"/>
+								<attribute name="link" value=""/>
+								<attribute name="flag" value="0"/>
+								<attribute name="weight" value="0.0"/>
+								<branch id="271">
+									<attribute name="name" value="Cerebrovascular disease"/>
+									<attribute name="type" value="1"/>
+									<attribute name="link" value=""/>
+									<attribute name="flag" value="0"/>
+									<attribute name="weight" value="0.0"/>
+									<leaf id="Other cerebrovascular disease">
+										<attribute name="name" value="Other cerebrovascular disease"/>
+										<attribute name="type" value="2"/>
+										<attribute name="link" value=""/>
+										<attribute name="flag" value="0"/>
+										<attribute name="weight" value="0.0"/>
+									</leaf>
+								</branch>
+							</branch>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="274">
+		<attribute name="name" value="101.4"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="275">
+			<attribute name="name" value="42.1"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="276">
+				<attribute name="name" value="-59.3"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="277">
+					<attribute name="name" value="-58.48126233"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<branch id="278">
+						<attribute name="name" value="440"/>
+						<attribute name="type" value="1"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+						<branch id="279">
+							<attribute name="name" value=" Deaths_per_100,000_Age_65+(crude)"/>
+							<attribute name="type" value="1"/>
+							<attribute name="link" value=""/>
+							<attribute name="flag" value="0"/>
+							<attribute name="weight" value="0.0"/>
+							<branch id="280">
+								<attribute name="name" value="Cardiovascular diseases"/>
+								<attribute name="type" value="1"/>
+								<attribute name="link" value=""/>
+								<attribute name="flag" value="0"/>
+								<attribute name="weight" value="0.0"/>
+								<leaf id="Atherosclerosis">
+									<attribute name="name" value="Atherosclerosis"/>
+									<attribute name="type" value="2"/>
+									<attribute name="link" value=""/>
+									<attribute name="flag" value="0"/>
+									<attribute name="weight" value="0.0"/>
+								</leaf>
+							</branch>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="283">
+		<attribute name="name" value="60.5"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="284">
+			<attribute name="name" value="67.8"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="285">
+				<attribute name="name" value="7.3"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="286">
+					<attribute name="name" value="12.0661157"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<branch id="287">
+						<attribute name="name" value="441-448"/>
+						<attribute name="type" value="1"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+						<branch id="288">
+							<attribute name="name" value=" Deaths_per_100,000_Age_65+(crude)"/>
+							<attribute name="type" value="1"/>
+							<attribute name="link" value=""/>
+							<attribute name="flag" value="0"/>
+							<attribute name="weight" value="0.0"/>
+							<branch id="289">
+								<attribute name="name" value="Cardiovascular diseases"/>
+								<attribute name="type" value="1"/>
+								<attribute name="link" value=""/>
+								<attribute name="flag" value="0"/>
+								<attribute name="weight" value="0.0"/>
+								<leaf id="  Oth. dis. of arteries, arterioles, capillaries">
+									<attribute name="name" value="  Oth. dis. of arteries, arterioles, capillaries"/>
+									<attribute name="type" value="2"/>
+									<attribute name="link" value=""/>
+									<attribute name="flag" value="0"/>
+									<attribute name="weight" value="0.0"/>
+								</leaf>
+							</branch>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="292">
+		<attribute name="name" value="162.2"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="293">
+			<attribute name="name" value="236.6"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="294">
+				<attribute name="name" value="74.4"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="295">
+					<attribute name="name" value="45.86929716"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<branch id="296">
+						<attribute name="name" value="480-486"/>
+						<attribute name="type" value="1"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+						<branch id="297">
+							<attribute name="name" value=" Deaths_per_100,000_Age_65+(crude)"/>
+							<attribute name="type" value="1"/>
+							<attribute name="link" value=""/>
+							<attribute name="flag" value="0"/>
+							<attribute name="weight" value="0.0"/>
+							<branch id="298">
+								<attribute name="name" value="Pneumonia and influenza"/>
+								<attribute name="type" value="1"/>
+								<attribute name="link" value=""/>
+								<attribute name="flag" value="0"/>
+								<attribute name="weight" value="0.0"/>
+								<leaf id="Pneumonia">
+									<attribute name="name" value="Pneumonia"/>
+									<attribute name="type" value="2"/>
+									<attribute name="link" value=""/>
+									<attribute name="flag" value="0"/>
+									<attribute name="weight" value="0.0"/>
+								</leaf>
+							</branch>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="301">
+		<attribute name="name" value="10.4"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="302">
+			<attribute name="name" value="4.6"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="303">
+				<attribute name="name" value="-5.8"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="304">
+					<attribute name="name" value="-55.76923077"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<branch id="305">
+						<attribute name="name" value="diff"/>
+						<attribute name="type" value="1"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+						<branch id="306">
+							<attribute name="name" value=" Deaths_per_100,000_Age_65+(crude)"/>
+							<attribute name="type" value="1"/>
+							<attribute name="link" value=""/>
+							<attribute name="flag" value="0"/>
+							<attribute name="weight" value="0.0"/>
+							<branch id="307">
+								<attribute name="name" value="Pneumonia and influenza"/>
+								<attribute name="type" value="1"/>
+								<attribute name="link" value=""/>
+								<attribute name="flag" value="0"/>
+								<attribute name="weight" value="0.0"/>
+								<leaf id="Other (non-pneumonia)">
+									<attribute name="name" value="Other (non-pneumonia)"/>
+									<attribute name="type" value="2"/>
+									<attribute name="link" value=""/>
+									<attribute name="flag" value="0"/>
+									<attribute name="weight" value="0.0"/>
+								</leaf>
+							</branch>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="310">
+		<attribute name="name" value="11.2"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="311">
+			<attribute name="name" value="7.4"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="312">
+				<attribute name="name" value="-3.8"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="313">
+					<attribute name="name" value="-33.92857143"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<branch id="314">
+						<attribute name="name" value="490-491"/>
+						<attribute name="type" value="1"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+						<branch id="315">
+							<attribute name="name" value=" Deaths_per_100,000_Age_65+(crude)"/>
+							<attribute name="type" value="1"/>
+							<attribute name="link" value=""/>
+							<attribute name="flag" value="0"/>
+							<attribute name="weight" value="0.0"/>
+							<branch id="316">
+								<attribute name="name" value="COPD &amp; allied conditions"/>
+								<attribute name="type" value="1"/>
+								<attribute name="link" value=""/>
+								<attribute name="flag" value="0"/>
+								<attribute name="weight" value="0.0"/>
+								<leaf id="  Bronchitis, chronic and unspec.">
+									<attribute name="name" value="  Bronchitis, chronic and unspec."/>
+									<attribute name="type" value="2"/>
+									<attribute name="link" value=""/>
+									<attribute name="flag" value="0"/>
+									<attribute name="weight" value="0.0"/>
+								</leaf>
+							</branch>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="319">
+		<attribute name="name" value="39.5"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="320">
+			<attribute name="name" value="43.5"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="321">
+				<attribute name="name" value="4"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="322">
+					<attribute name="name" value="10.12658228"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<branch id="323">
+						<attribute name="name" value="492"/>
+						<attribute name="type" value="1"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+						<branch id="324">
+							<attribute name="name" value=" Deaths_per_100,000_Age_65+(crude)"/>
+							<attribute name="type" value="1"/>
+							<attribute name="link" value=""/>
+							<attribute name="flag" value="0"/>
+							<attribute name="weight" value="0.0"/>
+							<branch id="325">
+								<attribute name="name" value="COPD &amp; allied conditions"/>
+								<attribute name="type" value="1"/>
+								<attribute name="link" value=""/>
+								<attribute name="flag" value="0"/>
+								<attribute name="weight" value="0.0"/>
+								<leaf id="Emphysema">
+									<attribute name="name" value="Emphysema"/>
+									<attribute name="type" value="2"/>
+									<attribute name="link" value=""/>
+									<attribute name="flag" value="0"/>
+									<attribute name="weight" value="0.0"/>
+								</leaf>
+							</branch>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="328">
+		<attribute name="name" value="125.4"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="329">
+			<attribute name="name" value="233.7"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="330">
+				<attribute name="name" value="108.3"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="331">
+					<attribute name="name" value="86.36363636"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<branch id="332">
+						<attribute name="name" value="diff"/>
+						<attribute name="type" value="1"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+						<branch id="333">
+							<attribute name="name" value=" Deaths_per_100,000_Age_65+(crude)"/>
+							<attribute name="type" value="1"/>
+							<attribute name="link" value=""/>
+							<attribute name="flag" value="0"/>
+							<attribute name="weight" value="0.0"/>
+							<branch id="334">
+								<attribute name="name" value="COPD &amp; allied conditions"/>
+								<attribute name="type" value="1"/>
+								<attribute name="link" value=""/>
+								<attribute name="flag" value="0"/>
+								<attribute name="weight" value="0.0"/>
+								<leaf id="Other COPD &amp; allied conditions">
+									<attribute name="name" value="Other COPD &amp; allied conditions"/>
+									<attribute name="type" value="2"/>
+									<attribute name="link" value=""/>
+									<attribute name="flag" value="0"/>
+									<attribute name="weight" value="0.0"/>
+								</leaf>
+							</branch>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="337">
+		<attribute name="name" value="18.8"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="338">
+			<attribute name="name" value="11.2"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="339">
+				<attribute name="name" value="-7.6"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="340">
+					<attribute name="name" value="-40.42553191"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<branch id="341">
+						<attribute name="name" value="531-533"/>
+						<attribute name="type" value="1"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+						<branch id="342">
+							<attribute name="name" value=" Deaths_per_100,000_Age_65+(crude)"/>
+							<attribute name="type" value="1"/>
+							<attribute name="link" value=""/>
+							<attribute name="flag" value="0"/>
+							<attribute name="weight" value="0.0"/>
+							<leaf id="Ulcer of stomach/duodenum">
+								<attribute name="name" value="Ulcer of stomach/duodenum"/>
+								<attribute name="type" value="2"/>
+								<attribute name="link" value=""/>
+								<attribute name="flag" value="0"/>
+								<attribute name="weight" value="0.0"/>
+							</leaf>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="345">
+		<attribute name="name" value="16.5"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="346">
+			<attribute name="name" value="16.9"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="347">
+				<attribute name="name" value="0.4"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="348">
+					<attribute name="name" value="2.424242424"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<branch id="349">
+						<attribute name="name" value="550-553, 560"/>
+						<attribute name="type" value="1"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+						<branch id="350">
+							<attribute name="name" value=" Deaths_per_100,000_Age_65+(crude)"/>
+							<attribute name="type" value="1"/>
+							<attribute name="link" value=""/>
+							<attribute name="flag" value="0"/>
+							<attribute name="weight" value="0.0"/>
+							<leaf id="Hernia/intestinal obstruction">
+								<attribute name="name" value="Hernia/intestinal obstruction"/>
+								<attribute name="type" value="2"/>
+								<attribute name="link" value=""/>
+								<attribute name="flag" value="0"/>
+								<attribute name="weight" value="0.0"/>
+							</leaf>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="353">
+		<attribute name="name" value="36.7"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="354">
+			<attribute name="name" value="29.8"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="355">
+				<attribute name="name" value="-6.9"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="356">
+					<attribute name="name" value="-18.80108992"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<branch id="357">
+						<attribute name="name" value="571"/>
+						<attribute name="type" value="1"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+						<branch id="358">
+							<attribute name="name" value=" Deaths_per_100,000_Age_65+(crude)"/>
+							<attribute name="type" value="1"/>
+							<attribute name="link" value=""/>
+							<attribute name="flag" value="0"/>
+							<attribute name="weight" value="0.0"/>
+							<leaf id="Chronic liver dis. &amp; cirrhosis">
+								<attribute name="name" value="Chronic liver dis. &amp; cirrhosis"/>
+								<attribute name="type" value="2"/>
+								<attribute name="link" value=""/>
+								<attribute name="flag" value="0"/>
+								<attribute name="weight" value="0.0"/>
+							</leaf>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="361">
+		<attribute name="name" value="10"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="362">
+			<attribute name="name" value="7.1"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="363">
+				<attribute name="name" value="-2.9"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="364">
+					<attribute name="name" value="-29"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<branch id="365">
+						<attribute name="name" value="574-575"/>
+						<attribute name="type" value="1"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+						<branch id="366">
+							<attribute name="name" value=" Deaths_per_100,000_Age_65+(crude)"/>
+							<attribute name="type" value="1"/>
+							<attribute name="link" value=""/>
+							<attribute name="flag" value="0"/>
+							<attribute name="weight" value="0.0"/>
+							<leaf id="Cholelithiasis/gallbladder disorder">
+								<attribute name="name" value="Cholelithiasis/gallbladder disorder"/>
+								<attribute name="type" value="2"/>
+								<attribute name="link" value=""/>
+								<attribute name="flag" value="0"/>
+								<attribute name="weight" value="0.0"/>
+							</leaf>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="369">
+		<attribute name="name" value="45.2"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="370">
+			<attribute name="name" value="60.9"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="371">
+				<attribute name="name" value="15.7"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="372">
+					<attribute name="name" value="34.73451327"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<branch id="373">
+						<attribute name="name" value="584-586, 588-589"/>
+						<attribute name="type" value="1"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+						<branch id="374">
+							<attribute name="name" value=" Deaths_per_100,000_Age_65+(crude)"/>
+							<attribute name="type" value="1"/>
+							<attribute name="link" value=""/>
+							<attribute name="flag" value="0"/>
+							<attribute name="weight" value="0.0"/>
+							<branch id="375">
+								<attribute name="name" value="Nephritis, nephr. synd. &amp; nephrosis"/>
+								<attribute name="type" value="1"/>
+								<attribute name="link" value=""/>
+								<attribute name="flag" value="0"/>
+								<attribute name="weight" value="0.0"/>
+								<leaf id="Renal failure/imp. ren. funct.">
+									<attribute name="name" value="Renal failure/imp. ren. funct."/>
+									<attribute name="type" value="2"/>
+									<attribute name="link" value=""/>
+									<attribute name="flag" value="0"/>
+									<attribute name="weight" value="0.0"/>
+								</leaf>
+							</branch>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="378">
+		<attribute name="name" value="7.1"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="379">
+			<attribute name="name" value="4.9"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="380">
+				<attribute name="name" value="-2.2"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="381">
+					<attribute name="name" value="-30.98591549"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<branch id="382">
+						<attribute name="name" value="diff"/>
+						<attribute name="type" value="1"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+						<branch id="383">
+							<attribute name="name" value=" Deaths_per_100,000_Age_65+(crude)"/>
+							<attribute name="type" value="1"/>
+							<attribute name="link" value=""/>
+							<attribute name="flag" value="0"/>
+							<attribute name="weight" value="0.0"/>
+							<branch id="384">
+								<attribute name="name" value="Nephritis, nephr. synd. &amp; nephrosis"/>
+								<attribute name="type" value="1"/>
+								<attribute name="link" value=""/>
+								<attribute name="flag" value="0"/>
+								<attribute name="weight" value="0.0"/>
+								<leaf id="Other non renal failure">
+									<attribute name="name" value="Other non renal failure"/>
+									<attribute name="type" value="2"/>
+									<attribute name="link" value=""/>
+									<attribute name="flag" value="0"/>
+									<attribute name="weight" value="0.0"/>
+								</leaf>
+							</branch>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="387">
+		<attribute name="name" value="91"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="388">
+			<attribute name="name" value="95.8"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="389">
+				<attribute name="name" value="4.8"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="390">
+					<attribute name="name" value="5.274725275"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<branch id="391">
+						<attribute name="name" value="800-949"/>
+						<attribute name="type" value="1"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+						<branch id="392">
+							<attribute name="name" value=" Deaths_per_100,000_Age_65+(crude)"/>
+							<attribute name="type" value="1"/>
+							<attribute name="link" value=""/>
+							<attribute name="flag" value="0"/>
+							<attribute name="weight" value="0.0"/>
+							<leaf id="Accidents &amp; adverse effects">
+								<attribute name="name" value="Accidents &amp; adverse effects"/>
+								<attribute name="type" value="2"/>
+								<attribute name="link" value=""/>
+								<attribute name="flag" value="0"/>
+								<attribute name="weight" value="0.0"/>
+							</leaf>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+	<branch id="395">
+		<attribute name="name" value="386.3"/>
+		<attribute name="type" value="1"/>
+		<attribute name="link" value=""/>
+		<attribute name="flag" value="0"/>
+		<attribute name="weight" value="0.0"/>
+		<branch id="396">
+			<attribute name="name" value="594.6"/>
+			<attribute name="type" value="1"/>
+			<attribute name="link" value=""/>
+			<attribute name="flag" value="0"/>
+			<attribute name="weight" value="0.0"/>
+			<branch id="397">
+				<attribute name="name" value="208.3"/>
+				<attribute name="type" value="1"/>
+				<attribute name="link" value=""/>
+				<attribute name="flag" value="0"/>
+				<attribute name="weight" value="0.0"/>
+				<branch id="398">
+					<attribute name="name" value="53.92182242"/>
+					<attribute name="type" value="1"/>
+					<attribute name="link" value=""/>
+					<attribute name="flag" value="0"/>
+					<attribute name="weight" value="0.0"/>
+					<branch id="399">
+						<attribute name="name" value="diff"/>
+						<attribute name="type" value="1"/>
+						<attribute name="link" value=""/>
+						<attribute name="flag" value="0"/>
+						<attribute name="weight" value="0.0"/>
+						<branch id="400">
+							<attribute name="name" value=" Deaths_per_100,000_Age_65+(crude)"/>
+							<attribute name="type" value="1"/>
+							<attribute name="link" value=""/>
+							<attribute name="flag" value="0"/>
+							<attribute name="weight" value="0.0"/>
+							<leaf id="Other causes of deaths">
+								<attribute name="name" value="Other causes of deaths"/>
+								<attribute name="type" value="2"/>
+								<attribute name="link" value=""/>
+								<attribute name="flag" value="0"/>
+								<attribute name="weight" value="0.0"/>
+							</leaf>
+						</branch>
+					</branch>
+				</branch>
+			</branch>
+		</branch>
+	</branch>
+</branch>
+</tree>
