@@ -1,0 +1,27 @@
+Part 1: Overview dashboard
+Create time hierarechy and answer the question above
+1. How many of pets found in each year/ quarter/ month in all time?
+2. How many months is the data recorded base on filter time hierarechy (range month records)?
+3. How many times each pet had intake base on filter time hierarechy?
+4. How many pet had found in dataset base on filter time hierarechy?
+5. How many months is the data recorded after select condition in filter base on filter time hierarechy?
+
+Part 2: Deep into animal's adoption rates
+Hint: animal have 'Adoption' in column 'outcome_type' in table aac_coutcome.csv are know as adoption
+6. What is the average number of pets found have adoption after intake in a month for all year?
+7. What is the ratio of incoming pets vs. adopted pets? This key metric helps the shelter know how they are doing
+8. What are the adoption rates for specific breeds? Find the top 5 dog breeds in the shelter (based on count) and then find the adoption percentage of each breed.
+9. What are the adoption rates for different colorings? Find the top 5 colorings in the shelter (based on count) and then find the adoption percentage of each color.
+10. How many animals in the shelter are repeats?, Which animal was returned to the shelter the most?
+
+Part 3:
+11. What are the adoption rates for the following age groups?
+- baby: 4 months and less
+- young: 5 months - 2 years
+- adult: 3 years - 10 years
+- senior: 11+
+
+12. About how many animals are spayed/neutered each month?
+This will help the shelter allocate resources and staff. Assume that all intact males and females will be spayed/neutered.
+
+13. If spay/neuter for a dog costs $100 and a spay/neuter for a cat costs $50, how much did the shelter spend in 2015 on these procedures
