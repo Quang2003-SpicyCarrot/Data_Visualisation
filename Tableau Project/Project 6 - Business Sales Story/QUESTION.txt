@@ -1,0 +1,26 @@
+Question part 1
+
+1. Customer Sales Overview: A bar or pie chart showing total sales per customer
+
+2. Employee Performance Tracker: Displaying sales figures per employee
+
+3. Product Sales Distribution: identifying best-sellers and underperformers.
+
+4. Supplier Contribution Analysis: A chart showing the sales contribution of each supplier.
+
+5. Sales Trends Over Time: A line graph illustrating sales trends over time, segmented by customers, employees, products, and suppliers
+
+6. Geographical Sales Breakdown: A map visualization showing sales distribution across different regions or countrie?
+
+Question part 2:
+
+7. What is the sales average of 1 oreder?
+
+8. How much money has a customer spent on the average for the each types of products they have purchased to date?
+
+9. What are the average number of days that an invoice is ordered until it is delivered to the customer
+
+10. For each order sold, employees will be entitled to a commission based on the order value according to the following provisions:
+Application value less than 2000, 5% commission.
+Application value since 2000, enjoy a commission of 7.5%.
+What is the total number of commission each customer have
